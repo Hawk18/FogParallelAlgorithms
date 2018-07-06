@@ -1,0 +1,75 @@
+\begin{thebibliography}{}
+
+\bibitem[Borgia, 2014]{borgia2014}
+Borgia, E. (2014).
+\newblock The {Internet} of {Things} {vision}: {Key} features, applications and
+  open issues.
+\newblock {\em Computer Communications}, 54:1--31.
+
+\bibitem[Fuqaha et~al., 2015]{alfuqaha2015}
+Fuqaha, A., Guizani, M., Mohammadi, M., Aledhari, M., and Ayyash, M. (2015).
+\newblock Internet of {Things}: {A} survey on enabling technologies, protocols
+  and applications.
+\newblock {\em IEEE}, 17(4):2347--2376.
+
+\bibitem[Ibrahim~Abaker et~al., 2015]{ibrahim2015}
+Ibrahim~Abaker, T.~H., Ibrar, Y., Nor~Badrul, A., Salimah, M., Abdullah, G.,
+  and Samee~Ullah, K. (2015).
+\newblock The rise of “big data” on cloud computing: {Review} and open
+  research issues.
+\newblock {\em Information Systems}, 47:98--115.
+
+\bibitem[Li et~al., 2018]{li2018}
+Li, S., Zhao, S., and Xu, L.~D. (2018).
+\newblock 5{G} {Internet} of {Things}: {A} survey.
+\newblock {\em Industrial Information Integration}.
+
+\bibitem[Mahmud et~al., 2018]{mahumd2018}
+Mahmud, R., Luiz~Koch, F., and Buyya, R. (2018).
+\newblock {Cloud}-{Fog} {Interoperability} in {I}o{T}-enabled {Healthcare}
+  {Solutions}.
+\newblock {\em ACM New York}.
+
+\bibitem[Murazzo et~al., 2017]{murazzo2017}
+Murazzo, M.~A., Piccoli, M.~F., Rodríguez, N.~R., Medel, D., Mercado, J.,
+  Sánchez, F., and Tello, M. (2017).
+\newblock Paralelismo {Híbrido} aplicado a soluciones de problemas de datos
+  masivos.
+\newblock {\em Buenos Aires: XIX Workshop de Investigadores en Ciencias de la
+  Computación}.
+
+\bibitem[Patel et~al., 2018]{patel2018}
+Patel, H.~M., Chaudhari, R.~R., Prajapati, K.~R., and Patel, A.~A. (2018).
+\newblock The {Interdependent} {Part} of {Cloud} {Computing}: {Dew}
+  {Computing}.
+\newblock {\em Intelligent Communication and Computational Technologies}.
+
+\bibitem[Piccialli et~al., 2018]{piccialli2018}
+Piccialli, F., Cuomo, S., and Jeon, G. (2018).
+\newblock Parallel {Approaches} for {Data} {Mining} in the {Internet} of
+  {Things} {Realm}.
+\newblock {\em International Journal of Parallel Programming}.
+
+\bibitem[Uehara, 2017]{uehara2017}
+Uehara, M. (2017).
+\newblock Mist {Computing}: {Linking} {Cloudlet} to {Fogs}.
+\newblock {\em Computational Science/Intelligence and Applied Informatics},
+  726:201--213.
+
+\bibitem[Vyas et~al., 2017]{vyas2017}
+Vyas, D.~A., Bhatt, D., and Jha, D. (2017).
+\newblock Io{T}: {Trends}, {Challenges} and {Future} {Scope}.
+\newblock {\em Computer Science \& Electronics Journals}, 7:186--197.
+
+\bibitem[Yi et~al., 2015]{yi2015}
+Yi, S., Li, Q., and Li, C. (2015).
+\newblock A {Survey} of {Fog} {Computing}: Concepts, applications and issues.
+\newblock {\em Williamsburg: College of William and Mary}.
+
+\bibitem[Yogi et~al., 2017]{yogi2017}
+Yogi, M.~K., Chandrasekhar, K., and Kumar, G.~V. (2017).
+\newblock Mist {Computing}: Principles, trends and future direction.
+\newblock {\em SSRG International Journal of Computer Science and Engineering},
+  4(7):19--21.
+
+\end{thebibliography}
