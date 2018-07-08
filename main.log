@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.4)  6 JUL 2018 14:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.4)  8 JUL 2018 13:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -792,7 +792,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 429--430
 []|\T1/ptm/m/n/12 Laptop LE-NO-VO Z50-70
  []
 
-) [7] (./main.bbl) [8
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 717--717
+[]|\T1/ptm/m/n/12 Laptop LE-NO-VO
+ []
+
+) [8] [9] (./main.bbl) [10
 
 ] (./main.aux (./cover.aux)
 LaTeX Info: Redefining \. on input line 8.
@@ -801,7 +806,7 @@ LaTeX Info: Redefining \% on input line 8.
 Here is how much of TeX's memory you used:
  5601 strings out of 493029
  71736 string characters out of 6136235
- 174739 words of memory out of 5000000
+ 176740 words of memory out of 5000000
  8997 multiletter control sequences out of 15000+600000
  35722 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -810,10 +815,10 @@ Here is how much of TeX's memory you used:
 .enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (8 pages, 130062 bytes).
+Output written on main.pdf (10 pages, 132755 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 51 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

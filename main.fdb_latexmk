@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex main"] 1530905062 "main.aux" "main.bbl" "main" 1530905064
+["bibtex main"] 1531076056 "main.aux" "main.bbl" "main" 1531076194
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
   "bibliografia.bib" 1530893927 4119 bd8313e82d574dd5b08b37c4fb858bee ""
-  "cover.aux" 1530905063 475 a4194ee3b6cb0f102b2c635945093ca4 ""
-  "generalidades.aux" 1530905063 3397 024a3d9640974d4deac8f0f45cd137c2 ""
-  "main.aux" 1530905063 957 3d8f7eaae9e9658290d20e8d68fede56 ""
+  "cover.aux" 1531076193 475 a4194ee3b6cb0f102b2c635945093ca4 ""
+  "generalidades.aux" 1531076193 3896 ce0f032837cee3e55f8dfe4a71f9fa5f ""
+  "main.aux" 1531076193 957 3d8f7eaae9e9658290d20e8d68fede56 ""
   "main.bcf" 0 -1 0 ""
   (generated)
-  "main.blg"
   "main.bbl"
-["pdflatex"] 1530905063 "/home/martin/FogParallelAlgorithms/main.tex" "main.pdf" "main" 1530905064
+  "main.blg"
+["pdflatex"] 1531076193 "/home/martin/FogParallelAlgorithms/main.tex" "main.pdf" "main" 1531076194
   "/etc/texmf/web2c/texmf.cnf" 1530763530 1101 af7716885e081ab43982cab7b4672c1a ""
   "/home/martin/FogParallelAlgorithms/main.tex" 1530901005 1172 5eda3a73804751298b53982a3bd06327 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -102,17 +102,17 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1530763994 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1530764017 3853735 8ba4e761eeee3528113ab06192687c20 ""
-  "cover.aux" 1530905063 475 a4194ee3b6cb0f102b2c635945093ca4 ""
+  "cover.aux" 1531076193 475 a4194ee3b6cb0f102b2c635945093ca4 ""
   "cover.tex" 1530771937 1221 f8601e8a9a901e9aa73746ca9d0ad6f9 ""
-  "generalidades.aux" 1530905063 3397 024a3d9640974d4deac8f0f45cd137c2 ""
-  "generalidades.tex" 1530905061 22763 481671c678962dc687117033f92d222e ""
-  "main.aux" 1530905063 957 3d8f7eaae9e9658290d20e8d68fede56 ""
-  "main.bbl" 1530905063 2964 b628bc64dc91f580a7b1faabb5a67254 "bibtex main"
+  "generalidades.aux" 1531076193 3896 ce0f032837cee3e55f8dfe4a71f9fa5f ""
+  "generalidades.tex" 1531076192 31002 b22ac909af7fba72c52d590decf5b9bc ""
+  "main.aux" 1531076193 957 3d8f7eaae9e9658290d20e8d68fede56 ""
+  "main.bbl" 1531076056 2964 b628bc64dc91f580a7b1faabb5a67254 "bibtex main"
   "main.tex" 1530901005 1172 5eda3a73804751298b53982a3bd06327 ""
   "unt.jpg" 1530769566 63431 932ee3688d1f4c742b73d8ba76918f8f ""
   (generated)
-  "cover.aux"
-  "main.log"
-  "main.pdf"
-  "main.aux"
   "generalidades.aux"
+  "main.pdf"
+  "cover.aux"
+  "main.aux"
+  "main.log"
