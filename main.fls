@@ -1,9 +1,9 @@
-PWD /home/pincelkey/Tesis/FogParallelAlgorithms
+PWD /home/martin/FogParallelAlgorithms
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/pincelkey/Tesis/FogParallelAlgorithms/main.tex
+INPUT /home/martin/FogParallelAlgorithms/main.tex
 OUTPUT main.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -99,6 +99,8 @@ INPUT cover.aux
 INPUT cover.aux
 INPUT generalidades.aux
 INPUT generalidades.aux
+INPUT plan.aux
+INPUT plan.aux
 OUTPUT main.aux
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
@@ -179,9 +181,12 @@ INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
-INPUT main.bbl
-INPUT main.bbl
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
+OUTPUT plan.aux
+INPUT plan.tex
+INPUT plan.tex
+INPUT main.bbl
+INPUT main.bbl
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
 INPUT main.aux
@@ -189,6 +194,8 @@ INPUT cover.aux
 INPUT cover.aux
 INPUT generalidades.aux
 INPUT generalidades.aux
+INPUT plan.aux
+INPUT plan.aux
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb

@@ -16,6 +16,12 @@
     \usepackage[round]{natbib} 
     \bibliographystyle{apalike}
     
+    %%% SUBSUBSUBSECTION %%%%
+    \newcommand{\subsubsubsection}[1]{\paragraph{#1}\mbox{}\\}
+    \setcounter{secnumdepth}{4}
+    \setcounter{tocdepth}{4}
+    %%%%%%%%%%%%%%%%%%%%%%%%%
+
     \usepackage[x11names,table]{xcolor}
     
     \begin{document}
@@ -26,6 +32,12 @@
     %% GENERALIDADES
     \include{generalidades}
     %% FIN GENERALIDADES
+
+    %% PLAN DE INVESTIGACIÓN
+    \include{plan}
+    %% FIN PLAN DE INVESTIGACIÓN
+
+
     \bibliography{bibliografia}
 
     \end{document}
