@@ -44,11 +44,23 @@ Patel, H.~M., Chaudhari, R.~R., Prajapati, K.~R., and Patel, A.~A. (2018).
   {Computing}.
 \newblock {\em Intelligent Communication and Computational Technologies}.
 
+\bibitem[Peng et~al., 2015]{mugen2015}
+Peng, M., Yan, S., Zhang, K., and Wang, C. (2015).
+\newblock Fog {Computing} based {Radio} {Access} {Networks}: {Issues} and
+  {Challenges}.
+\newblock {\em National Natural Science Foundation of China}.
+
 \bibitem[Piccialli et~al., 2018]{piccialli2018}
 Piccialli, F., Cuomo, S., and Jeon, G. (2018).
 \newblock Parallel {Approaches} for {Data} {Mining} in the {Internet} of
   {Things} {Realm}.
 \newblock {\em International Journal of Parallel Programming}.
+
+\bibitem[T.~Shanmugapriya et~al., 2018]{shanmugapriya2018}
+T.~Shanmugapriya, M., Anbuselvi, A., and Thendral, A. (2018).
+\newblock An {Incremental} {CFS} {Algortihm} for {Clustering} {Large} {Data} in
+  {Industrial} {Internet} of {Things}.
+\newblock {\em CSE ULTRA College of Engineering \& Technology for Womena}.
 
 \bibitem[Uehara, 2017]{uehara2017}
 Uehara, M. (2017).
