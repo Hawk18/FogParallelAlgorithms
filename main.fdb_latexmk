@@ -1,7 +1,7 @@
 # Fdb version 3
-["bibtex main"] 1531096902 "main.aux" "main.bbl" "main" 1531096903
+["bibtex main"] 1531097513 "main.aux" "main.bbl" "main" 1531097524
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "bibliografia.bib" 1531096855 4407 2a83184497cc7040c19db53c11a3d231 ""
+  "bibliografia.bib" 1531097507 4416 7d8ffbe518d2101f0eb0f7cb229dda25 ""
   "cover.aux" 1531096902 475 a4194ee3b6cb0f102b2c635945093ca4 ""
   "generalidades.aux" 1531096902 4450 ce4b0584330a7ed68248fa69e073ad37 ""
   "main.aux" 1531096902 1097 f468ef30e97ea2d08ef22f5309623777 ""
@@ -10,7 +10,7 @@
   (generated)
   "main.blg"
   "main.bbl"
-["pdflatex"] 1531096902 "/home/pincelkey/Tesis/FogParallelAlgorithms/main.tex" "main.pdf" "main" 1531096903
+["pdflatex"] 1531096902 "/home/pincelkey/Tesis/FogParallelAlgorithms/main.tex" "main.pdf" "main" 1531097524
   "/etc/texmf/web2c/texmf.cnf" 1530781348 1101 af7716885e081ab43982cab7b4672c1a ""
   "/home/pincelkey/Tesis/FogParallelAlgorithms/main.tex" 1531096450 1258 8f1408f40367dfd3a60421a61621a047 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -106,17 +106,17 @@
   "cover.aux" 1531096902 475 a4194ee3b6cb0f102b2c635945093ca4 ""
   "cover.tex" 1530846260 1221 f8601e8a9a901e9aa73746ca9d0ad6f9 ""
   "generalidades.aux" 1531096902 4450 ce4b0584330a7ed68248fa69e073ad37 ""
-  "generalidades.tex" 1531096899 33924 f0d7b602bc4d95a64abd6d4e6c7fb87d ""
+  "generalidades.tex" 1531097523 33924 f0d7b602bc4d95a64abd6d4e6c7fb87d ""
   "main.aux" 1531096902 1097 f468ef30e97ea2d08ef22f5309623777 ""
-  "main.bbl" 1531096902 3523 3a60a388a82367f6210c33690aa9b5fc "bibtex main"
+  "main.bbl" 1531097513 3523 3a60a388a82367f6210c33690aa9b5fc "bibtex main"
   "main.tex" 1531096450 1258 8f1408f40367dfd3a60421a61621a047 ""
   "plan.aux" 1531096902 2013 f03dd76e142411cea182e5c05a10a1bd ""
   "plan.tex" 1531096450 17523 80c427801daeb41326add722f84c9a60 ""
   "unt.jpg" 1530846260 63431 932ee3688d1f4c742b73d8ba76918f8f ""
   (generated)
   "main.aux"
-  "main.pdf"
-  "generalidades.aux"
-  "cover.aux"
   "main.log"
+  "generalidades.aux"
+  "main.pdf"
+  "cover.aux"
   "plan.aux"
