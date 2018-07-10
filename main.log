@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.5)  10 JUL 2018 00:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.5)  10 JUL 2018 00:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -888,7 +888,7 @@ Underfull \hbox (badness 1019) in paragraph at lines 95--96
 \T1/ptm/m/n/12 sión y la re-cep-
  []
 
-) [15] (./main.bbl) [16
+[15]) [16] (./main.bbl) [17
 
 ] (./main.aux (./cover.aux)
 LaTeX Info: Redefining \. on input line 8.
@@ -907,10 +907,10 @@ Here is how much of TeX's memory you used:
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (16 pages, 149704 bytes).
+Output written on main.pdf (17 pages, 150119 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 73 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
