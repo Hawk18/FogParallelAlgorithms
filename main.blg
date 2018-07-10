@@ -8,17 +8,10 @@ A level-1 auxiliary file: plan.aux
 Database file #1: bibliografia.bib
 You've used 15 entries,
             1935 wiz_defined-function locations,
-<<<<<<< HEAD
-            545 strings with 6222 characters,
-and the built_in function-call counts, 5452 in all, are:
-= -- 514
-> -- 285
-=======
-            551 strings with 6401 characters,
+            551 strings with 6402 characters,
 and the built_in function-call counts, 5880 in all, are:
 = -- 557
 > -- 303
->>>>>>> origin
 < -- 2
 + -- 116
 - -- 104
