@@ -1,18 +1,33 @@
 # Fdb version 3
+<<<<<<< HEAD
 ["bibtex main"] 1531097513 "main.aux" "main.bbl" "main" 1531097524
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
   "bibliografia.bib" 1531097507 4416 7d8ffbe518d2101f0eb0f7cb229dda25 ""
   "cover.aux" 1531096902 475 a4194ee3b6cb0f102b2c635945093ca4 ""
   "generalidades.aux" 1531096902 4450 ce4b0584330a7ed68248fa69e073ad37 ""
   "main.aux" 1531096902 1097 f468ef30e97ea2d08ef22f5309623777 ""
+=======
+["bibtex main"] 1531159031 "main.aux" "main.bbl" "main" 1531193085
+  "/usr/share/texlive/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
+  "bibliografia.bib" 1531159023 4405 0608e6af31258b1e47bd1d41ba4182a3 ""
+  "cover.aux" 1531193084 475 a4194ee3b6cb0f102b2c635945093ca4 ""
+  "generalidades.aux" 1531193084 4450 ce4b0584330a7ed68248fa69e073ad37 ""
+  "main.aux" 1531193085 1149 4b1cffa1a14e7777bb4e4164464a826e ""
+>>>>>>> origin
   "main.bcf" 0 -1 0 ""
-  "plan.aux" 1531096902 2013 f03dd76e142411cea182e5c05a10a1bd ""
+  "plan.aux" 1531193084 2034 bcd8d3df156ed5d7e921fc4f6fddf364 ""
   (generated)
   "main.blg"
   "main.bbl"
+<<<<<<< HEAD
 ["pdflatex"] 1531096902 "/home/pincelkey/Tesis/FogParallelAlgorithms/main.tex" "main.pdf" "main" 1531097524
   "/etc/texmf/web2c/texmf.cnf" 1530781348 1101 af7716885e081ab43982cab7b4672c1a ""
   "/home/pincelkey/Tesis/FogParallelAlgorithms/main.tex" 1531096450 1258 8f1408f40367dfd3a60421a61621a047 ""
+=======
+["pdflatex"] 1531193084 "/home/martin/FogParallelAlgorithms/main.tex" "main.pdf" "main" 1531193085
+  "/etc/texmf/web2c/texmf.cnf" 1530763530 1101 af7716885e081ab43982cab7b4672c1a ""
+  "/home/martin/FogParallelAlgorithms/main.tex" 1531094000 1258 8f1408f40367dfd3a60421a61621a047 ""
+>>>>>>> origin
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm" 1136768653 4524 6bce29db5bc272ba5f332261583fee9c ""
@@ -101,6 +116,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty" 1169481954 55224 a43bab84e0ac5e6efcaf9a98bde73a94 ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
+<<<<<<< HEAD
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1530781538 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1530781647 3854279 2e063dd70ba65001163f6d6229493735 ""
   "cover.aux" 1531096902 475 a4194ee3b6cb0f102b2c635945093ca4 ""
@@ -119,4 +135,24 @@
   "generalidades.aux"
   "main.pdf"
   "cover.aux"
+=======
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1530763994 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1530764017 3853735 8ba4e761eeee3528113ab06192687c20 ""
+  "cover.aux" 1531193084 475 a4194ee3b6cb0f102b2c635945093ca4 ""
+  "cover.tex" 1530771937 1221 f8601e8a9a901e9aa73746ca9d0ad6f9 ""
+  "generalidades.aux" 1531193084 4450 ce4b0584330a7ed68248fa69e073ad37 ""
+  "generalidades.tex" 1531193083 34951 7c3ecd4708335ae9588cd56a328eed6f ""
+  "main.aux" 1531193085 1149 4b1cffa1a14e7777bb4e4164464a826e ""
+  "main.bbl" 1531159031 3766 7f321bdd08ad922df408c01527b14529 "bibtex main"
+  "main.tex" 1531094000 1258 8f1408f40367dfd3a60421a61621a047 ""
+  "plan.aux" 1531193084 2034 bcd8d3df156ed5d7e921fc4f6fddf364 ""
+  "plan.tex" 1531159027 17497 2c7b861693b4f7d949a559dd835816cd ""
+  "unt.jpg" 1530769566 63431 932ee3688d1f4c742b73d8ba76918f8f ""
+  (generated)
+  "generalidades.aux"
+  "main.aux"
+  "main.log"
+  "cover.aux"
+  "main.pdf"
+>>>>>>> origin
   "plan.aux"
