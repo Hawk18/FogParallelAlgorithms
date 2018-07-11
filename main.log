@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.5)  10 JUL 2018 22:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.5)  11 JUL 2018 00:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -907,7 +907,7 @@ Here is how much of TeX's memory you used:
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (17 pages, 150345 bytes).
+Output written on main.pdf (17 pages, 151523 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  49 compressed objects within 1 object stream
