@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.5)  10 JUL 2018 21:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.5)  10 JUL 2018 22:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -728,72 +728,72 @@ Overfull \hbox (16.42503pt too wide) in paragraph at lines 45--50
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
 []|\T1/ptm/m/n/12 Preparación del
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--99
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
 []\T1/ptm/m/n/12 Aprobación del plan
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
 []|\T1/ptm/m/n/12 Recolección de
  []
 
 
-Underfull \hbox (badness 2042) in paragraph at lines 132--132
+Underfull \hbox (badness 2042) in paragraph at lines 131--131
 []|\T1/ptm/m/n/12 Comparar da-tos re-co-
  []
 
 
-Underfull \hbox (badness 1803) in paragraph at lines 147--148
+Underfull \hbox (badness 1803) in paragraph at lines 146--147
 []\T1/ptm/m/n/12 Desarrollo de la pro-
  []
 
 
-Overfull \hbox (8.33984pt too wide) in paragraph at lines 87--175
+Overfull \hbox (8.33984pt too wide) in paragraph at lines 86--174
  [][] 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 192--192
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
 []|\T1/ptm/m/n/12 Recolección de
  []
 
 
-Underfull \hbox (badness 2042) in paragraph at lines 211--211
+Underfull \hbox (badness 2042) in paragraph at lines 210--210
 []|\T1/ptm/m/n/12 Comparar da-tos re-co-
  []
 
 
-Underfull \hbox (badness 1803) in paragraph at lines 226--227
+Underfull \hbox (badness 1803) in paragraph at lines 225--226
 []\T1/ptm/m/n/12 Desarrollo de la pro-
  []
 
 
-Underfull \hbox (badness 1314) in paragraph at lines 231--232
+Underfull \hbox (badness 1314) in paragraph at lines 230--231
 []\T1/ptm/m/n/12 Implementación y de-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--275
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
 []|\T1/ptm/m/n/12 Sustentación de
  []
 
 
-Overfull \hbox (8.33984pt too wide) in paragraph at lines 183--287
+Overfull \hbox (8.33984pt too wide) in paragraph at lines 182--286
  [][] 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 429--430
+Underfull \hbox (badness 10000) in paragraph at lines 428--429
 []|\T1/ptm/m/n/12 Laptop LE-NO-VO Z50-70
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 715--715
+Underfull \hbox (badness 10000) in paragraph at lines 714--714
 []|\T1/ptm/m/n/12 Laptop LE-NO-VO
  []
 
@@ -907,7 +907,7 @@ Here is how much of TeX's memory you used:
 /share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (17 pages, 150339 bytes).
+Output written on main.pdf (17 pages, 150345 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  49 compressed objects within 1 object stream
