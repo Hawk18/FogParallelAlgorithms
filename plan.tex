@@ -110,12 +110,49 @@
                 \item[d)] Comprobar que los algoritmos paralelos permiten disminuir la latencia.
             \end{enumerate}
     \subsection{Método de trabajo}    
-            \subsubsection{Universo, Población, Muestra y Unidad de estudio:}
-                {\bf Universo:} Transmisiones de datos en Internet.\par
-                {\bf Población:} Transmisiones de datos del Internet de las Cosas.\par
-                {\bf Muestra:} Transmisiones de datos del Internet de las Cosas, Z=1,64 - 94\% , S=1s, E=0.5s, n=10.7584 .\par
-                {\bf Unidad de estudio:} Transmision de los datos(paquetes) de IoT donde se manejan grandes cantidades de información.
-            \subsubsection{Etapas:}
+            \subsubsection{Diseño de la investigación}
+                \begin{enumerate}   
+                    \item[a)]{\bf Universo:} Transmisiones de datos en Internet.\par
+                    \item[b)]{\bf Población:} Transmisiones de datos del Internet de las Cosas.\par
+                    \item[c)]{\bf Muestra:} Transmisiones de datos del Internet de las Cosas, Z=1.96 - 95\% , S=1s, E=0.5s\par
+                        \begin{equation}\label{eq:ej}
+                            n = \frac{Z^{2}S^{2}}{E^{2}} = 15.3664
+                        \end{equation}
+                        \begin{table}[h!]
+                            \centering
+                            \begin{tabular}{|p{1cm}|p{1cm}|p{1cm}|} \hline
+            
+                            %%%%%%%%    FILA 1   %%%%%%%
+                            % COLUMNA 1 %
+                            RG1 &
+                            % COLUMNA 2 %
+                            X &
+                            % COLUMNA 3 %
+                            O1 
+            
+                            \\ \hline
+
+                            %%%%%%%%    FILA 2   %%%%%%%
+                            % COLUMNA 1 %
+                            RG2 &
+                            % COLUMNA 2 %
+                            - &
+                            % COLUMNA 3 %
+                            O2 
+            
+                            \\ \hline            
+                            \end{tabular}
+                        \end{table}
+                        \begin{enumerate}
+                            \item[]RG1: Transmisiones de datos del Internet de las Cosas bajo Fog Computing y Algoritmos Paralelos.\par
+                            \item[]RG2: Transmisiones de datos del Internet de las Cosas.\par
+                            \item[]X: Algoritmos Paralelos sobre la arquitectura Fog Computing\par
+                            \item[]O1:\par
+                            \item[]O2:\par
+                        \end{enumerate}                        
+                    \item[d)]{\bf Unidad de estudio:} Transmision de los datos(paquetes) de IoT donde se manejan grandes cantidades de información.                  
+                \end{enumerate}
+            \subsubsection{Etapas}
                 \begin{enumerate}
                     \item[a)] Análisis de los principales problemas con respecto a la transmisión de datos a los que se enfrenta actualmente IoT y a los que va ha enfrentarse en un futuro cercano.
                     \item[b)] Levantamiento de trabajos relacionados al tema de transmision de datos en IoT.
