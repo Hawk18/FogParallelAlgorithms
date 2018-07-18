@@ -22,7 +22,16 @@
         Y para superar las desventajas de las C-RANs con las limitaciones del fronthaul, se han propuesto redes heterogéneas de acceso a la radio en la nube (H-CRANs), Desafortunadamente, los H-CRANs siguen siendo un reto en la práctica. En primer lugar, dado que las aplicaciones sociales basadas en la ubicación se vuelven cada vez más populares, los datos de tráfico sobre el fronthaul entre los RRH (cabezales de radio remotos) y el pool centralizado de BBU generan mucha información redundante, lo que empeora las restricciones del fronthaul. Además, los H-CRANs no aprovechan al máximo las capacidades de procesamiento y almacenamiento en dispositivos de borde, como RRH y equipos de usuario "inteligentes" (UEs)\par
         Además, resaltan que los operadores necesitan desplegar una gran cantidad de RRH y HPN (Nodos de Alta Potencia) fijos en H-CRANs para cumplir con los requisitos de capacidad máxima, lo que los convierte en un serio desperdicio cuando el volumen de tráfico de entrega no es lo suficientemente grande; y para resolver tales desafíos, se deben explorar enfoques evolutivos que involucren arquitecturas de redes de acceso de radio nuevas y tecnologías avanzadas.\par
         Por ende, proponen a Fog Computing como una buena alternativa frente a Cloud Computing, cuya propuesta viene a colocar una cantidad sustancial de almacenamiento, comunicación, control, configuración, medición y administración en el borde de una red, donde el procesamiento de señal de radio de colaboración (CRSP) no solo se puede ejecutar en un grupo de BBU centralizado en H-CRANs, sino que también se puede alojar en RRH e incluso en UEs 'inteligentes' utilizables.\par
-        ddddEste trabajo nos aporta una aplicación importante de Fog Computing en un campo como las redes 5G, donde se busca lograr el aprovechamiento de los dispositivos finales (RRH) frente a las limitaciones que presenta la propuesta planteada con el fin de lograr los objetivos de 5G.\par     
+        Este trabajo nos aporta una aplicación importante de Fog Computing en un campo como las redes 5G, donde se busca lograr el aprovechamiento de los dispositivos finales (RRH) frente a las limitaciones que presenta la propuesta planteada con el fin de lograr los objetivos de 5G.\par     
+        \begin{figure}[ht]
+            \begin{center}
+                \includegraphics[width=.8\textwidth]{redFronthaul}
+            \end{center}
+        \end{figure}
+        \begin{center}
+            { Figura 1: Red de transporte Fronthaul - enlace entre RRH y BBU }\par 
+            { Fuente: Aleksandra Checko (2015). }
+        \end{center}   
         \vskip 0.3cm
         {\bf\cite{piccialli2018}} nos hablan de la cantidad de almacenamiento que se va generando por el incremento de dispositivos conectados a internet, en su mayoría debido a dispositivos IoT, y la estimada para el 2020; a su vez indica que el procesamiento actual de los datos no es ideal pero mejoraría con la inclusión de técnicas de computación paralela y distribuida.\par
         Como aporte, esta investigación reafirma nuestra idea de que al utilizar algoritmos paralelos podemos lograr una mejora notable en cuanto a la velocidad del procesamiento de los datos y por ende disminuir la latencia. \par

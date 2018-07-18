@@ -1,9 +1,9 @@
-PWD /home/martin/FogParallelAlgorithms
+PWD /home/pincelkey/Tesis/FogParallelAlgorithms
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/martin/FogParallelAlgorithms/main.tex
+INPUT /home/pincelkey/Tesis/FogParallelAlgorithms/main.tex
 OUTPUT main.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -185,6 +185,9 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
 OUTPUT plan.aux
 INPUT plan.tex
 INPUT plan.tex
+INPUT redFronthaul.jpg
+INPUT ./redFronthaul.jpg
+INPUT ./redFronthaul.jpg
 INPUT main.bbl
 INPUT main.bbl
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf
