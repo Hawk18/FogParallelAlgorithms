@@ -1,7 +1,25 @@
 # Fdb version 3
+<<<<<<< HEAD
 ["pdflatex"] 1531860403 "/home/pincelkey/Tesis/FogParallelAlgorithms/main.tex" "main.pdf" "main" 1531881807
   "/etc/texmf/web2c/texmf.cnf" 1530781348 1101 af7716885e081ab43982cab7b4672c1a ""
   "/home/pincelkey/Tesis/FogParallelAlgorithms/main.tex" 1531096450 1258 8f1408f40367dfd3a60421a61621a047 ""
+=======
+["bibtex main"] 1531878896 "main.aux" "main.bbl" "main" 1531879089
+  "/usr/share/texlive/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
+  "bibliografia.bib" 1531223924 4422 fb7e2dacb8a0d5b9afcaa6b444d8fdaa ""
+  "cover.aux" 1531879089 475 a4194ee3b6cb0f102b2c635945093ca4 ""
+  "generalidades.aux" 1531879089 4450 1da0dce95819bf29e0a297f3c8746feb ""
+  "main.aux" 1531879089 1149 4b1cffa1a14e7777bb4e4164464a826e ""
+  "main.bcf" 0 -1 0 ""
+  "plan.aux" 1531879089 2256 986b0281368ffbd71e3b343e41fa9342 ""
+  (generated)
+  "main.bbl"
+  "main.blg"
+["pdflatex"] 1531879088 "/home/martin/FogParallelAlgorithms/main.tex" "main.pdf" "main" 1531879089
+  "/etc/texmf/web2c/texmf.cnf" 1530763530 1101 af7716885e081ab43982cab7b4672c1a ""
+  "/home/martin/FogParallelAlgorithms/main.tex" 1531401787 1258 8f1408f40367dfd3a60421a61621a047 ""
+  "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
+>>>>>>> origin
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
@@ -13,6 +31,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty" 1428932888 2594 d18d5e19aa8239cf867fa670c556d2e9 ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
+<<<<<<< HEAD
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1530781647 3854279 2e063dd70ba65001163f6d6229493735 ""
   "main.aux" 1531880280 1149 4b1cffa1a14e7777bb4e4164464a826e ""
   "main.tex" 1531096450 1258 8f1408f40367dfd3a60421a61621a047 ""
@@ -31,3 +50,32 @@
   "cover.aux"
   "plan.aux"
   "main.aux"
+=======
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1530763994 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1530764017 3853735 8ba4e761eeee3528113ab06192687c20 ""
+  "cover.aux" 1531879089 475 a4194ee3b6cb0f102b2c635945093ca4 ""
+  "cover.tex" 1530771937 1221 f8601e8a9a901e9aa73746ca9d0ad6f9 ""
+  "generalidades.aux" 1531879089 4450 1da0dce95819bf29e0a297f3c8746feb ""
+  "generalidades.tex" 1531859469 35398 d2d3816879c03a0cc379554fefefbfa9 ""
+  "main.aux" 1531879089 1149 4b1cffa1a14e7777bb4e4164464a826e ""
+  "main.bbl" 1531878896 3766 7f321bdd08ad922df408c01527b14529 "bibtex main"
+  "main.tex" 1531401787 1258 8f1408f40367dfd3a60421a61621a047 ""
+  "plan.aux" 1531879089 2256 986b0281368ffbd71e3b343e41fa9342 ""
+  "plan.tex" 1531879088 22510 7e89cf85b4ed07c582db3502023f3cdf ""
+  "unt.jpg" 1530769566 63431 932ee3688d1f4c742b73d8ba76918f8f ""
+  (generated)
+  "main.aux"
+  "main.tex"
+  "cover.tex"
+  "main.pdf"
+  "cover.aux"
+  "main.log"
+  "unt.jpg"
+  "generalidades.aux"
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map"
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt"
+  "plan.tex"
+  "main.bbl"
+  "generalidades.tex"
+  "plan.aux"
+>>>>>>> origin
