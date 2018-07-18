@@ -1,14 +1,10 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.5)  17 JUL 2018 19:09
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.4)  17 JUL 2018 15:46
->>>>>>> origin
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.4)  17 JUL 2018 20:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/pincelkey/Tesis/FogParallelAlgorithms/main.tex
-(/home/pincelkey/Tesis/FogParallelAlgorithms/main.tex
+**/home/martin/FogParallelAlgorithms/main.tex
+(/home/martin/FogParallelAlgorithms/main.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -901,13 +897,12 @@ LaTeX Info: Redefining \% on input line 8.
 (./generalidades.aux) (./plan.aux)) ) 
 Here is how much of TeX's memory you used:
  5624 strings out of 493029
- 72078 string characters out of 6136235
- 175128 words of memory out of 5000000
+ 72051 string characters out of 6136235
+ 175127 words of memory out of 5000000
  9013 multiletter control sequences out of 15000+600000
  35722 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
-<<<<<<< HEAD
- 41i,12n,35p,1356b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,12n,35p,1347b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/d
 vips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.
@@ -915,15 +910,7 @@ pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (18 pages, 177578 bytes).
-=======
- 41i,12n,35p,1347b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr
-/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
-s/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (17 pages, 152788 bytes).
->>>>>>> origin
+Output written on main.pdf (18 pages, 177589 bytes).
 PDF statistics:
  88 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream
