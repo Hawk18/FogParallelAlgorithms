@@ -119,52 +119,121 @@
                 \item[d)] Comprobar que los algoritmos paralelos permiten disminuir la latencia.
             \end{enumerate}
     \subsection{Método de trabajo}    
+            \subsubsection{Tipo investigación}
+                Estudio Explicativo
             \subsubsection{Diseño de la investigación}
-                \begin{enumerate}   
-                    \item[a)]{\bf Universo:} Transmisiones de datos en Internet.\par
-                    \item[b)]{\bf Población:} Transmisiones de datos del Internet de las Cosas.\par
-                    \item[c)]{\bf Muestra:} Transmisiones de datos del Internet de las Cosas.\par
-                        Z=1.96 - 95\%, S=500ms, E=50ms\par
-                        \begin{equation*}\label{}
-                            n = \frac{Z^{2}S^{2}}{E^{2}} = 384.16
-                        \end{equation*}
-                        \vskip 0.3cm
-                        Z: Nivel de confiabilidad, S: Desviación estándar, E: Error, n: Tamaño de la población
-                        \vskip 0.3cm
-                        \begin{table}[h!]
-                            \centering
-                            \begin{tabular}{|p{1cm}|p{1cm}|p{1cm}|} \hline
-            
-                            %%%%%%%%    FILA 1   %%%%%%%
-                            % COLUMNA 1 %
-                            RG1 &
-                            % COLUMNA 2 %
-                            X &
-                            % COLUMNA 3 %
-                            O1 
-            
-                            \\ \hline
+                \begin{enumerate}
+                    \item[a)]{\bf Tipo de Diseño}\par
+                        Diseño experimental - Experimento puro 
+                    \item[a)]{\bf Explicación del tipo}\par
+                        Los experimentos puros son aquellos que reúnen los dos requisitos para logar el control y la validez interna: grupos de comparación, y equivalencia de grupos. Asimismo, pueden utilizar prepuebas y pospruebas para analizar la evolución de los grupos antes y despues del tratamiento experimental {\cite{sampieri1997}}. 
+                    \item[a)]{\bf Diseño con posprueba únicamente y grupo de control}\par
+                        Este diseño incluye dos grupos, uno recibe el tratamiento experimental y el otro no (grupo  de control).\par
+                        Esquema del diseño:\par
+                        \begin{center}
+                            { RG1: X O1}\par
+                            { RG2: - O2}\par
+                        \end{center} 
+                        Donde:\par 
+                        X: variable independiente (Algoritmos Paralelos sobre Fog Computing).\par
+                        O1: medición previa (antes de la aplicación de Algoritmos Paralelos sobre Fog Computing) de la variable dependiente.\par
+                        O2: medición posterior (después de la aplicación de Algoritmos Paralelos sobre Fog Computing) de la variable dependiente.\par
+                \end{enumerate}  
+            \subsubsection{Población y muestra}    
+                \vskip 0.3cm
+                \begin{enumerate}
+                    \item[]{{\bf Universo:} Transmisiones de datos en Internet.}
+                    \item[]{{\bf Población:} Transmisiones de datos del Internet de las Cosas.}
+                    \item[]{{\bf Muestra:} Transmisiones de datos del Internet de las Cosas.}
+                    \item[]{{\bf Tipo de muestra:} Muestra Aleatoria.}
+                    \item[]{{\bf Unidad de estudio:} Transmision de los datos(paquetes) de IoT donde se manejan grandes cantidades de información.}
+                \end{enumerate}\par                 
+                \vskip 0.3cm
 
-                            %%%%%%%%    FILA 2   %%%%%%%
-                            % COLUMNA 1 %
-                            RG2 &
-                            % COLUMNA 2 %
-                            - &
-                            % COLUMNA 3 %
-                            O2 
-            
-                            \\ \hline            
-                            \end{tabular}
-                        \end{table}
-                        \begin{enumerate}
-                            \item[]RG1: Transmisiones de datos del Internet de las Cosas bajo Fog Computing y Algoritmos Paralelos.\par
-                            \item[]RG2: Transmisiones de datos del Internet de las Cosas.\par
-                            \item[]X: Algoritmos Paralelos sobre la arquitectura Fog Computing\par
-                            \item[]O1:\par
-                            \item[]O2:\par
-                        \end{enumerate}                        
-                    \item[d)]{\bf Unidad de estudio:} Transmision de los datos(paquetes) de IoT donde se manejan grandes cantidades de información.                  
-                \end{enumerate}
+                {\bf Cálculo de la muestra:}\par
+                \vskip 0.3cm
+
+                Para calcular el tamaño de la muestra suele utilizarse la siguiente fórmula:\par
+                \begin{equation*}\label{}
+                    n = \frac{Z^{2}S^{2}}{E^{2}} = 384.16
+                \end{equation*}
+                \begin{center}
+                    { Figura 1: Fórmula para el cálculo de la Muestra.}\par
+                    { Fuente: Metología de la Investigación {\cite{sampieri1997}}. }\par
+                \end{center} 
+                \vskip 0.3cm   
+
+                Donde:
+                \vskip 0.3cm
+
+                \begin{enumerate}
+                    \item[]{n = el tamaño de la muestra.}
+                    \item[]{Desviación estándar de la población que, generalmente cuando no se tiene su valor, suele utilizarse un valor constante de 0.5.}
+                    \item[]{Z = Valor obtenido mediante niveles de confianza. Es un valor constante que, si no se tiene su valor, se le toma en relación al 95{\%} de confianza que equivale 1.96 (como más usual) o en relación al 99{\%} de confianza que equivale 2.58, valor que queda a criterio del investigador.}
+                    \item[]{E = Límite aceptable de error muestral que, generalmente cuando no se tiene su valor, suele utilizarse un valor que varía entre 1{\%} (0.01) y 9{\%} (0.09), valor queda a criterio del encuestador  {\cite{sampieri1997}}.}
+                \end{enumerate}\par
+                En nuestro caso:\par
+                \vskip 0.3cm  
+                \begin{table}[h!]
+                    \centering
+                    { Tabla 16: Cálculo de la Muestra.}\par
+                    \begin{tabular}{|p{5cm}|p{3cm}|p{5cm}|} \hline
+                        
+                    %%%%%%%    CABECERA      %%%%%%%    
+                    
+                    \textit{{}} &
+                    \textit{{}} &
+                    \textit{{\bf{Elevado al cuadrado}}} 
+                    \\ \hline
+    
+                    %%%%%%%%    FILA 1   %%%%%%%
+                    % COLUMNA 1 %
+                    {\bf E (margen de errror)} &
+                    % COLUMNA 2 %
+                    0.05 &
+                    % COLUMNA 3 %
+                    0.0025
+                    \\ \hline
+
+                    %%%%%%%%    FILA 2   %%%%%%%
+                    % COLUMNA 1 %
+                    {\bf S (desviación de error} &
+                    % COLUMNA 2 %
+                    0.5 &
+                    % COLUMNA 3 %
+                    0.025
+                    \\ \hline
+
+                      %%%%%%%%    FILA 3   %%%%%%%
+                    % COLUMNA 1 %
+                    {\bf Z (nivel de confianza)} &
+                    % COLUMNA 2 %
+                    1.96 &
+                    % COLUMNA 3 %
+                    3.8416
+                    \\ \hline
+
+                      %%%%%%%%    FILA 4   %%%%%%%
+                    % COLUMNA 1 %
+                    {} &
+                    % COLUMNA 2 %
+                    {} &
+                    % COLUMNA 3 %
+                    {\bf Redondeando}
+                    \\ \hline
+
+                      %%%%%%%%    FILA 5   %%%%%%%
+                    % COLUMNA 1 %
+                    {\bf n (tamaño de la muestra)} &
+                    % COLUMNA 2 %
+                    38.416 &
+                    % COLUMNA 3 %
+                    38
+                    \\ \hline   
+
+                    \end{tabular}
+                \end{table}                
+
             \subsubsection{Etapas}
                 \begin{enumerate}
                     \item[a)] Análisis de los principales problemas con respecto a la transmisión de datos a los que se enfrenta actualmente IoT y a los que va ha enfrentarse en un futuro cercano.
