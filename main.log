@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.5)  31 AUG 2018 20:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.4)  2 SEP 2018 21:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/pincelkey/Tesis/FogParallelAlgorithms/main.tex
-(/home/pincelkey/Tesis/FogParallelAlgorithms/main.tex
+**/home/martin/FogParallelAlgorithms/main.tex
+(/home/martin/FogParallelAlgorithms/main.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -727,196 +727,166 @@ Overfull \hbox (16.42503pt too wide) in paragraph at lines 47--52
  [][] 
  []
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
 []|\T1/ptm/m/n/12 Preparación del
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--101
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
 []\T1/ptm/m/n/12 Aprobación del plan
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--115
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
 []|\T1/ptm/m/n/12 Recolección de
  []
 
 
-Underfull \hbox (badness 2042) in paragraph at lines 134--134
+Underfull \hbox (badness 2042) in paragraph at lines 135--135
 []|\T1/ptm/m/n/12 Comparar da-tos re-co-
  []
 
 
-Underfull \hbox (badness 1803) in paragraph at lines 149--150
+Underfull \hbox (badness 1803) in paragraph at lines 150--151
 []\T1/ptm/m/n/12 Desarrollo de la pro-
  []
 
 
-Overfull \hbox (8.33984pt too wide) in paragraph at lines 89--177
- [][] 
- []
-
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 194--194
-[]|\T1/ptm/m/n/12 Recolección de
- []
-
-
-Underfull \hbox (badness 2042) in paragraph at lines 213--213
-[]|\T1/ptm/m/n/12 Comparar da-tos re-co-
- []
-
-
-Underfull \hbox (badness 1803) in paragraph at lines 228--229
-[]\T1/ptm/m/n/12 Desarrollo de la pro-
- []
-
-
-Underfull \hbox (badness 1314) in paragraph at lines 233--234
+Underfull \hbox (badness 1314) in paragraph at lines 155--156
 []\T1/ptm/m/n/12 Implementación y de-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
 []|\T1/ptm/m/n/12 Sustentación de
  []
 
 
-Overfull \hbox (8.33984pt too wide) in paragraph at lines 185--289
+Overfull \hbox (8.33984pt too wide) in paragraph at lines 90--211
  [][] 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 438--439
+Underfull \hbox (badness 10000) in paragraph at lines 362--363
 []|\T1/ptm/m/n/12 Laptop LE-NO-VO Z50-70
  []
 
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 724--724
+[7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 655--655
 []|\T1/ptm/m/n/12 Laptop LE-NO-VO
  []
 
-[8]) [9]
+[9]) [10]
 \openout2 = `plan.aux'.
 
- (./plan.tex [10
+ (./plan.tex [11
 
 
-] [11] [12]
-Underfull \hbox (badness 2165) in paragraph at lines 53--53
+] [12] [13] [14]
+Underfull \hbox (badness 2165) in paragraph at lines 56--56
 []|\T1/ptm/b/n/12 Definición Con-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--60
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
 []|\T1/ptm/m/n/12 Algoritmos pa-
  []
 
 
-Underfull \hbox (badness 4391) in paragraph at lines 60--60
+Underfull \hbox (badness 4391) in paragraph at lines 63--63
 \T1/ptm/m/n/12 ra-le-los so-bre la
  []
 
 
-Underfull \hbox (badness 4819) in paragraph at lines 60--60
+Underfull \hbox (badness 4819) in paragraph at lines 63--63
 \T1/ptm/m/n/12 ar-qui-tec-tu-ra Fog
  []
 
 
-Underfull \hbox (badness 1199) in paragraph at lines 62--62
+Underfull \hbox (badness 1199) in paragraph at lines 65--65
 \T1/ptm/m/n/12 ca-dos al uso de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
 \T1/ptm/m/n/12 va-rios pro-ce-sa-
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 62--62
+Underfull \hbox (badness 3189) in paragraph at lines 65--65
 \T1/ptm/m/n/12 do-res tra-ba-jan-do
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
 \T1/ptm/m/n/12 jun-tos pa-ra re-
  []
 
 
-Underfull \hbox (badness 1874) in paragraph at lines 62--62
+Underfull \hbox (badness 1874) in paragraph at lines 65--65
 \T1/ptm/m/n/12 sol-ver una ta-rea
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 []|\T1/ptm/m/n/12 Rendimiento de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 \T1/ptm/m/n/12 los Al-go-rit-mos
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 []\T1/ptm/m/n/12 Aceleración
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
 \T1/ptm/m/n/12 Eficiencia (ef-fi-
  []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 2165) in paragraph at lines 88--88
+Underfull \hbox (badness 2165) in paragraph at lines 91--91
 []|\T1/ptm/b/n/12 Definición Con-
  []
 
 
-Underfull \hbox (badness 4819) in paragraph at lines 97--97
+Underfull \hbox (badness 4819) in paragraph at lines 100--100
 []|\T1/ptm/m/n/12 Retardo exis-ten-
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 97--97
+Underfull \hbox (badness 1275) in paragraph at lines 100--100
 \T1/ptm/m/n/12 te en la en-tre-ga
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 101--102
+Underfull \hbox (badness 1019) in paragraph at lines 104--105
 \T1/ptm/m/n/12 sión y la re-cep-
  []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[13]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[14]) [15] (./main.bbl)
+[15] [16]) [17] (./main.bbl)
 Underfull \hbox (badness 10000) in paragraph at lines 44--46
 
  []
 
-[16
+[18
 
-] [17] (./main.aux (./cover.aux)
+] [19] (./main.aux (./cover.aux)
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
  (./generalidades.aux) (./plan.aux)) ) 
 Here is how much of TeX's memory you used:
  5623 strings out of 493029
- 72077 string characters out of 6136235
- 175119 words of memory out of 5000000
+ 72050 string characters out of 6136235
+ 175118 words of memory out of 5000000
  9012 multiletter control sequences out of 15000+600000
  35722 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,12n,35p,1356b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,12n,35p,1347b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/
 dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
@@ -924,10 +894,10 @@ dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (17 pages, 180842 bytes).
+Output written on main.pdf (19 pages, 180535 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
+ 92 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
