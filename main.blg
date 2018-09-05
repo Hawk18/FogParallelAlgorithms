@@ -6,44 +6,44 @@ A level-1 auxiliary file: cover.aux
 A level-1 auxiliary file: generalidades.aux
 A level-1 auxiliary file: plan.aux
 Database file #1: bibliografia.bib
-You've used 16 entries,
+You've used 17 entries,
             1935 wiz_defined-function locations,
-            556 strings with 6546 characters,
-and the built_in function-call counts, 6221 in all, are:
-= -- 587
-> -- 321
-< -- 2
-+ -- 122
-- -- 110
-* -- 535
-:= -- 1138
-add.period$ -- 48
-call.type$ -- 16
-change.case$ -- 134
-chr.to.int$ -- 16
-cite$ -- 16
-duplicate$ -- 216
-empty$ -- 385
-format.name$ -- 126
-if$ -- 1156
+            561 strings with 6734 characters,
+and the built_in function-call counts, 6484 in all, are:
+= -- 614
+> -- 328
+< -- 3
++ -- 124
+- -- 112
+* -- 553
+:= -- 1191
+add.period$ -- 51
+call.type$ -- 17
+change.case$ -- 139
+chr.to.int$ -- 17
+cite$ -- 17
+duplicate$ -- 228
+empty$ -- 402
+format.name$ -- 129
+if$ -- 1204
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 17
-newline$ -- 83
-num.names$ -- 48
-pop$ -- 122
+newline$ -- 88
+num.names$ -- 51
+pop$ -- 126
 preamble$ -- 1
-purify$ -- 135
+purify$ -- 141
 quote$ -- 0
-skip$ -- 162
+skip$ -- 172
 stack$ -- 0
-substring$ -- 367
-swap$ -- 16
+substring$ -- 379
+swap$ -- 17
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 94
+type$ -- 100
 warning$ -- 0
-while$ -- 46
+while$ -- 48
 width$ -- 0
-write$ -- 201
+write$ -- 214
