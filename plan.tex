@@ -26,7 +26,7 @@
         {\bf\cite{mugen2015}} presentan una red de acceso de radio basado en Fog Computing (F-RAN) como iniciativa para lograr alcanzar los objetivos propuestos para el sistema de comunicación inalámbrica de quinta generación (5G). Además, resaltan que en las actuales redes propuestas los operadores necesitan desplegar una gran cantidad de recursos para cumplir con los requisitos de capacidad máxima, lo que los convierte en un serio desperdicio cuando el volumen de tráfico de entrega no es lo suficientemente grande. Por ende, proponen a Fog Computing como una buena alternativa frente a Cloud Computing, cuya propuesta viene a colocar una cantidad sustancial de almacenamiento, comunicación, control, configuración, medición y administración en el borde de una red.\par
         Este trabajo nos aporta una aplicación importante de Fog Computing en un campo como las redes 5G, donde se busca lograr el aprovechamiento de los dispositivos finales (RRH) frente a las limitaciones que presenta la propuesta planteada con el fin de lograr los objetivos de 5G.\par     
         \vskip 0.3cm
-        {\bf\cite{piccialli2018}} nos hablan de la cantidad de almacenamiento que se va generando por el incremento de dispositivos conectados a internet, en su mayoría debido a dispositivos IoT, y la estimada para el 2020; a su vez indica que el procesamiento actual de los datos no es ideal pero mejoraría con la inclusión de técnicas de computación paralela y distribuida.\par
+        {\bf\cite{piccialli2018}} nos explica sobre la cantidad de almacenamiento que se va generando por el incremento de dispositivos conectados a internet, en su mayoría debido a dispositivos IoT, y la estimada para el 2020; a su vez indica que el procesamiento actual de los datos no es ideal pero mejoraría con la inclusión de técnicas de computación paralela y distribuida.\par
         Como aporte, esta investigación reafirma nuestra idea de que al utilizar algoritmos paralelos podemos lograr una mejora notable en cuanto a la velocidad del procesamiento de los datos y por ende disminuir la latencia. \par
         \vskip 0.3cm
         {\bf\cite{shanmugapriya2018}} nos muestra un panorama donde una variante de un algoritmo de agrupamiento más reciente basado en el hallazgo rápido y la búsqueda de picos de densidad (CFS), tiene la capacidad de afrontar la agrupación de grandes cantidades de datos dinámicos en el Internet de las cosas industriales, donde muestra que dicha variación puede encontrar grupos de forma arbitraria y determinar la cantidad de clústeres automáticamente, solucionado de cierta manera las limitaciones que presentaba el algoritmo inicial frente al agrupamiento de grandes volúmenes de datos.\par
@@ -71,10 +71,18 @@
                 Aceleración (speedup) 
                 \begin{equation*}\label{}
                     SU = \frac{Ts}{Tp}
+                    \begin{center}
+                        { Figura 1: Fórmula para el cálculo del SpeedUp.}\par
+                        { Fuente: Algoritmos paralelos para la solución de problemas de optimización discretos aplicados a la decodificación de señales {\cite{rafael2009}}. }\par
+                    \end{center}                    
                 \end{equation*}   
                 Eficiencia (efficiency) 
                 \begin{equation*}\label{}
                     E(n) = \frac{S(n)}{n}
+                    \begin{center}
+                        { Figura 2: Fórmula para el cálculo de la Eficiencia.}\par
+                        { Fuente: Algoritmos paralelos para la solución de problemas de optimización discretos aplicados a la decodificación de señales {\cite{rafael2009}}. }\par                        
+                    \end{center}                    
                 \end{equation*}                
 
                 \\ \hline
@@ -142,9 +150,9 @@
             \subsubsection{Población y muestra}    
                 \vskip 0.3cm
                 \begin{enumerate}
-                    \item[]{{\bf Universo:} Transmisiones de datos en Internet.}
-                    \item[]{{\bf Población:} Transmisiones de datos del Internet de las Cosas.}
-                    \item[]{{\bf Muestra:} Transmisiones de datos del Internet de las Cosas.}
+                    \item[]{{\bf Universo:} Transmisiones de datos en Internet de las Cosas.}
+                    \item[]{{\bf Población:} Transmisiones de datos desde dispositivos IoT hasta un servidor.}
+                    \item[]{{\bf Muestra:} Transmisiones de datos desde dispositivos IoT hasta un servidor.}
                     \item[]{{\bf Tipo de muestra:} Muestra Aleatoria.}
                     \item[]{{\bf Unidad de estudio:} Transmision de los datos(paquetes) de IoT donde se manejan grandes cantidades de información.}
                 \end{enumerate}\par                 
@@ -155,10 +163,10 @@
 
                 Para calcular el tamaño de la muestra suele utilizarse la siguiente fórmula:\par
                 \begin{equation*}\label{}
-                    n = \frac{Z^{2}S^{2}}{E^{2}} = 384.16
+                    n = \frac{Z^{2}S^{2}}{E^{2}} = 38.416
                 \end{equation*}
                 \begin{center}
-                    { Figura 1: Fórmula para el cálculo de la Muestra.}\par
+                    { Figura 3: Fórmula para el cálculo de la Muestra.}\par
                     { Fuente: Metología de la Investigación {\cite{sampieri1997}}. }\par
                 \end{center} 
                 \vskip 0.3cm   
