@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.4)  17 SEP 2018 16:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.4)  17 SEP 2018 16:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -783,99 +783,89 @@ Underfull \hbox (badness 10000) in paragraph at lines 701--701
  (./plan.tex [11
 
 
-] [12] [13]
-Underfull \hbox (badness 2165) in paragraph at lines 45--45
+] [12] [13] [14]
+Underfull \hbox (badness 2165) in paragraph at lines 48--48
 []|\T1/ptm/b/n/12 Definición Con-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--52
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 []|\T1/ptm/m/n/12 Algoritmos pa-
  []
 
 
-Underfull \hbox (badness 4391) in paragraph at lines 52--52
+Underfull \hbox (badness 4391) in paragraph at lines 55--55
 \T1/ptm/m/n/12 ra-le-los so-bre la
  []
 
 
-Underfull \hbox (badness 4819) in paragraph at lines 52--52
+Underfull \hbox (badness 4819) in paragraph at lines 55--55
 \T1/ptm/m/n/12 ar-qui-tec-tu-ra Fog
  []
 
 
-Underfull \hbox (badness 1199) in paragraph at lines 54--54
+Underfull \hbox (badness 1199) in paragraph at lines 57--57
 \T1/ptm/m/n/12 ca-dos al uso de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 \T1/ptm/m/n/12 va-rios pro-ce-sa-
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 54--54
+Underfull \hbox (badness 3189) in paragraph at lines 57--57
 \T1/ptm/m/n/12 do-res tra-ba-jan-do
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 \T1/ptm/m/n/12 jun-tos pa-ra re-
  []
 
 
-Underfull \hbox (badness 1874) in paragraph at lines 54--54
+Underfull \hbox (badness 1874) in paragraph at lines 57--57
 \T1/ptm/m/n/12 sol-ver una ta-rea
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
 []|\T1/ptm/m/n/12 Rendimiento de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
 \T1/ptm/m/n/12 los Al-go-rit-mos
  []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 2165) in paragraph at lines 102--102
+[15]
+Underfull \hbox (badness 2165) in paragraph at lines 108--108
 []|\T1/ptm/b/n/12 Definición Con-
  []
 
 
-Underfull \hbox (badness 4819) in paragraph at lines 111--111
+Underfull \hbox (badness 4819) in paragraph at lines 117--117
 []|\T1/ptm/m/n/12 Retardo exis-ten-
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 111--111
+Underfull \hbox (badness 1275) in paragraph at lines 117--117
 \T1/ptm/m/n/12 te en la en-tre-ga
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 115--116
+Underfull \hbox (badness 1019) in paragraph at lines 121--122
 \T1/ptm/m/n/12 sión y la re-cep-
  []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[14] [15] [16]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[17]) [18] (./main.bbl [19
+[16] [17] [18]) [19] (./main.bbl [20
 
 ])
 Underfull \hbox (badness 10000) in paragraph at lines 44--46
 
  []
 
-[20] (./main.aux (./cover.aux)
+[21] (./main.aux (./cover.aux)
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
  (./generalidades.aux) (./plan.aux)) ) 
@@ -894,10 +884,10 @@ dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (20 pages, 184974 bytes).
+Output written on main.pdf (21 pages, 185443 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
+ 98 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
