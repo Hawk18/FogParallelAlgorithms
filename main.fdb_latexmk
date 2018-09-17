@@ -1,30 +1,15 @@
 # Fdb version 3
-<<<<<<< HEAD
-["bibtex main"] 1537209150 "main.aux" "main.bbl" "main" 1537209159
+["bibtex main"] 1537210709 "main.aux" "main.bbl" "main" 1537210718
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
   "bibliografia.bib" 1536122185 4916 1689bbe996a5452b62ffa8928a2eee44 ""
-  "cover.aux" 1537209155 475 a4194ee3b6cb0f102b2c635945093ca4 ""
-  "generalidades.aux" 1537209156 4043 9f2dafccd73a8474178f8d0ba10fd3ba ""
-  "main.aux" 1537209157 1262 1aba9d29f7f0d8ecb5aa5c087e475a1b ""
+  "cover.aux" 1537210714 475 a4194ee3b6cb0f102b2c635945093ca4 ""
+  "generalidades.aux" 1537210715 4043 9f2dafccd73a8474178f8d0ba10fd3ba ""
+  "main.aux" 1537210715 1262 1aba9d29f7f0d8ecb5aa5c087e475a1b ""
   "main.bcf" 0 -1 0 ""
-  "plan.aux" 1537209157 2466 1fe4ab4c7b9c835434e0190f4ea21fad ""
+  "plan.aux" 1537210715 2466 8d607bd81820ac0a3df9ba236186e897 ""
   (generated)
   "main.bbl"
-["pdflatex"] 1537209152 "/home/california/Tesis/test/main.tex" "main.pdf" "main" 1537209159
-=======
-["bibtex main"] 1537210309 "main.aux" "main.bbl" "main" 1537210317
-  "/usr/share/texlive/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "bibliografia.bib" 1536122185 4916 1689bbe996a5452b62ffa8928a2eee44 ""
-  "cover.aux" 1537210314 475 a4194ee3b6cb0f102b2c635945093ca4 ""
-  "generalidades.aux" 1537210315 4043 9f2dafccd73a8474178f8d0ba10fd3ba ""
-  "main.aux" 1537210315 1262 1aba9d29f7f0d8ecb5aa5c087e475a1b ""
-  "main.bcf" 0 -1 0 ""
-  "plan.aux" 1537210315 2466 8d607bd81820ac0a3df9ba236186e897 ""
-  (generated)
-  "main.bbl"
-  "main.blg"
-["pdflatex"] 1537210311 "/home/california/Tesis/test/main.tex" "main.pdf" "main" 1537210317
->>>>>>> test
+["pdflatex"] 1537210710 "/home/california/Tesis/test/main.tex" "main.pdf" "main" 1537210718
   "/etc/texmf/web2c/texmf.cnf" 1536110255 1101 af7716885e081ab43982cab7b4672c1a ""
   "/home/california/Tesis/test/main.tex" 1536116624 1578 755d82cc22967d44782e443e5798c70a ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -120,40 +105,20 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1536110283 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1536110385 3856707 c8b882f58a471e53544ba62e5f45666b ""
-<<<<<<< HEAD
-  "cover.aux" 1537209155 475 a4194ee3b6cb0f102b2c635945093ca4 ""
+  "cover.aux" 1537210714 475 a4194ee3b6cb0f102b2c635945093ca4 ""
   "cover.tex" 1536116624 1221 f8601e8a9a901e9aa73746ca9d0ad6f9 ""
-  "generalidades.aux" 1537209156 4043 9f2dafccd73a8474178f8d0ba10fd3ba ""
+  "generalidades.aux" 1537210715 4043 9f2dafccd73a8474178f8d0ba10fd3ba ""
   "generalidades.tex" 1537208768 33843 a62f0d2f3f5715bf645de82cf2d666f1 ""
-  "main.aux" 1537209157 1262 1aba9d29f7f0d8ecb5aa5c087e475a1b ""
-  "main.bbl" 1537209152 4205 4e48856c30e5770c19df5aedd6182a2e "bibtex main"
+  "main.aux" 1537210715 1262 1aba9d29f7f0d8ecb5aa5c087e475a1b ""
+  "main.bbl" 1537210710 4205 4e48856c30e5770c19df5aedd6182a2e "bibtex main"
   "main.tex" 1536116624 1578 755d82cc22967d44782e443e5798c70a ""
-  "plan.aux" 1537209157 2466 1fe4ab4c7b9c835434e0190f4ea21fad ""
-  "plan.tex" 1537209107 26037 bb1c5012b277b15beb9055a3515b7d35 ""
+  "plan.aux" 1537210715 2466 8d607bd81820ac0a3df9ba236186e897 ""
+  "plan.tex" 1537210661 26025 6b4693677a0ade915df81356c7005d98 ""
   "unt.jpg" 1536116624 63431 932ee3688d1f4c742b73d8ba76918f8f ""
   (generated)
-  "main.pdf"
-  "main.log"
-  "cover.aux"
   "generalidades.aux"
+  "main.log"
   "main.aux"
-  "plan.aux"
-=======
-  "cover.aux" 1537210314 475 a4194ee3b6cb0f102b2c635945093ca4 ""
-  "cover.tex" 1536116624 1221 f8601e8a9a901e9aa73746ca9d0ad6f9 ""
-  "generalidades.aux" 1537210315 4043 9f2dafccd73a8474178f8d0ba10fd3ba ""
-  "generalidades.tex" 1537208768 33843 a62f0d2f3f5715bf645de82cf2d666f1 ""
-  "main.aux" 1537210315 1262 1aba9d29f7f0d8ecb5aa5c087e475a1b ""
-  "main.bbl" 1537210311 4205 4e48856c30e5770c19df5aedd6182a2e "bibtex main"
-  "main.tex" 1536116624 1578 755d82cc22967d44782e443e5798c70a ""
-  "plan.aux" 1537210315 2466 8d607bd81820ac0a3df9ba236186e897 ""
-  "plan.tex" 1537210301 25943 8d9ee9fad068f68c66393f7068d970f3 ""
-  "unt.jpg" 1536116624 63431 932ee3688d1f4c742b73d8ba76918f8f ""
-  (generated)
   "cover.aux"
   "plan.aux"
-  "main.log"
-  "generalidades.aux"
-  "main.aux"
   "main.pdf"
->>>>>>> test
