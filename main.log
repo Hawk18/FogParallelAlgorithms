@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.4)  15 SEP 2018 15:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.9.4)  17 SEP 2018 13:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/martin/FogParallelAlgorithms/main.tex
-(/home/martin/FogParallelAlgorithms/main.tex
+**/home/california/Tesis/test/main.tex
+(/home/california/Tesis/test/main.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -838,27 +838,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--55
 \T1/ptm/m/n/12 los Al-go-rit-mos
  []
 
-
-Underfull \hbox (badness 2165) in paragraph at lines 93--93
+[14]
+Underfull \hbox (badness 2165) in paragraph at lines 101--101
 []|\T1/ptm/b/n/12 Definición Con-
  []
 
 
-Underfull \hbox (badness 4819) in paragraph at lines 102--102
+Underfull \hbox (badness 4819) in paragraph at lines 110--110
 []|\T1/ptm/m/n/12 Retardo exis-ten-
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 102--102
+Underfull \hbox (badness 1275) in paragraph at lines 110--110
 \T1/ptm/m/n/12 te en la en-tre-ga
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 106--107
+Underfull \hbox (badness 1019) in paragraph at lines 114--115
 \T1/ptm/m/n/12 sión y la re-cep-
  []
 
-[14] [15] [16] [17]) [18] (./main.bbl [19
+[15] [16] [17]) [18] (./main.bbl [19
 
 ])
 Underfull \hbox (badness 10000) in paragraph at lines 44--46
@@ -871,12 +871,12 @@ LaTeX Info: Redefining \% on input line 8.
  (./generalidades.aux) (./plan.aux)) ) 
 Here is how much of TeX's memory you used:
  5632 strings out of 493029
- 72201 string characters out of 6136235
- 175182 words of memory out of 5000000
+ 72180 string characters out of 6136235
+ 175184 words of memory out of 5000000
  9020 multiletter control sequences out of 15000+600000
  38444 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,12n,35p,2375b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,12n,35p,2368b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/
 dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
@@ -884,7 +884,7 @@ dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (20 pages, 184154 bytes).
+Output written on main.pdf (20 pages, 184569 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  65 compressed objects within 1 object stream
