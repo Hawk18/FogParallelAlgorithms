@@ -90,6 +90,14 @@
 
                 \end{tabular}
             \end{table}
+            Donde:
+            \vskip 0.3cm
+            \begin{enumerate}
+                \item[]{Ts = Tiempo en ejecución de un programa secuencial.}
+                \item[]{Tp = Tiempo de ejecución de la versión paralela de dicho programa.}
+                \item[]{S(n) = SpeedUp.}
+                \item[]{n = Cantidad de procesadores.}
+            \end{enumerate}\par            
         \subsubsection{Variable Dependiente}
             \begin{table}[h!]
                 \centering
@@ -126,6 +134,7 @@
                 \item[b)] Comparar el performance que existe entre Cloud Computing y Fog Computing como arquitectura para IoT. 
                 \item[c)] Diseñar algoritmos  paralelos con la menor complejidad posible.
                 \item[d)] Comprobar que los algoritmos paralelos permiten disminuir la latencia.
+                \item[e)] Análisis de resultados.
             \end{enumerate}
     \subsection{Método de trabajo}    
             \subsubsection{Tipo investigación}
@@ -164,7 +173,7 @@
 
                 Para calcular el tamaño de la muestra suele utilizarse la siguiente fórmula:\par
                 \begin{equation*}\label{}
-                    n = \frac{Z^{2}S^{2}}{E^{2}} = 38.416
+                    n = \frac{Z^{2}S^{2}}{E^{2}} = 153.664
                 \end{equation*}
                 \begin{center}
                     { Figura 3: Fórmula para el cálculo de la Muestra.}\par
@@ -177,7 +186,7 @@
 
                 \begin{enumerate}
                     \item[]{n = el tamaño de la muestra.}
-                    \item[]{S = Desviación estándar de la población que, generalmente cuando no se tiene su valor, suele utilizarse un valor constante de 0.5.}
+                    \item[]{S = Desviación estándar de la población.}
                     \item[]{Z = Valor obtenido mediante niveles de confianza. Es un valor constante que, si no se tiene su valor, se le toma en relación al 95{\%} de confianza que equivale 1.96 (como más usual) o en relación al 99{\%} de confianza que equivale 2.58, valor que queda a criterio del investigador.}
                     \item[]{E = Límite aceptable de error muestral que, generalmente cuando no se tiene su valor, suele utilizarse un valor que varía entre 1{\%} (0.01) y 9{\%} (0.09), valor queda a criterio del encuestador  {\cite{sampieri1997}}.}
                 \end{enumerate}\par
@@ -197,25 +206,25 @@
     
                     %%%%%%%%    FILA 1   %%%%%%%
                     % COLUMNA 1 %
-                    {\bf E (margen de errror)} &
+                    {\bf E} &
                     % COLUMNA 2 %
-                    0.05 &
+                    0.5ms &
                     % COLUMNA 3 %
-                    0.0025
+                    0.0025ms
                     \\ \hline
 
                     %%%%%%%%    FILA 2   %%%%%%%
                     % COLUMNA 1 %
-                    {\bf S (desviación de error} &
+                    {\bf S} &
                     % COLUMNA 2 %
-                    0.5 &
+                    1ms &
                     % COLUMNA 3 %
-                    0.025
+                    1ms
                     \\ \hline
 
                       %%%%%%%%    FILA 3   %%%%%%%
                     % COLUMNA 1 %
-                    {\bf Z (nivel de confianza)} &
+                    {\bf Z} &
                     % COLUMNA 2 %
                     1.96 &
                     % COLUMNA 3 %
@@ -235,9 +244,9 @@
                     % COLUMNA 1 %
                     {\bf n (tamaño de la muestra)} &
                     % COLUMNA 2 %
-                    38.416 &
+                    153.664 &
                     % COLUMNA 3 %
-                    38
+                    153
                     \\ \hline   
 
                     \end{tabular}
@@ -257,7 +266,28 @@
                     \item[j)] Elección de una aréa industrial para que sea utilizada como estudio de caso, tanto para los testes de las propuestas estudiadas como las desarrolladas.
                     \item[k)] Levantamiento de los datos necesarios para validar y testear la propuesta desarrollada.
                     \item[l)] Levantamiento de simulación de datos para ejecutar la propuesta.
-                    \item[m)] Testes y validación de la propuesta desarrollada en la área industrial escogida. 
+                    \item[m)] Testes y validación de la propuesta desarrollada en la área industrial escogida.
+                    \item[j)] Análisis de resultados con la herramienta ''Excel''. 
                 \end{enumerate}                
-
+            \subsubsection{Técnicas e Instrumentos de recolección de datos}
+                En la actualidad, en la investigación científica hay gran variedad o instrumentos para la recolección de información en el trabajo de campo de una determinada investigación.\par
+                De acuerdo con el método y el tipo de investigación a realizar se utilizan unas u otras técnicas. Para esta investigación se utilizarán las siguientes técnicas:\par
+                \begin{table}[h!]
+                    \centering
+                    { Tabla 17: Técnicas e Instrumentos de recolección de datos.}\par
+                    \vskip 0.3cm
+                    \begin{tabular}{|p{6cm}|} \hline
+                        
+                    %%%%%%%    CABECERA      %%%%%%%    
+                    
+                    \textit{{\bf{Medición de tiempo}}}
+                    \\ \hline
+    
+                    %%%%%%%%    FILA 1   %%%%%%%
+                    % COLUMNA 1 %
+                    Se medirá el tiempo ... . 
+                    \\ \hline
+    
+                    \end{tabular}
+                \end{table}
 
