@@ -2,10 +2,11 @@
 
 \section{PLAN DE INVESTIGACIÓN}
     \subsection{Realidad problemática}
-        Según cifras establecidas por grandes empresas del medio como Cisco,  se puede predecir que en un futuro próximo tendremos cerca de 50 a 100 mil millones de objetos conectados electrónicamente a Internet, es un cifra bastante colosal que poco a poco genera problemas debido a las tecnologías que se usan actualmente para poder desplegar cualquier proyecto basado en Internet de las Cosas.\par
-        Desde el año 2000 se viene hablando sobre Internet de las Cosas y cómo cimentar las bases exactas para lograr darle el mejor soporte en tecnologías de comunicación, pero de acuerdo a ciertos autores, cada solución que se plantean para un problema es momentánea, es decir, funciona bajo el paradigma de una enfermedad terminal, dónde cura la herida por un cierto tiempo pero si no se plantean nuevas formas mas sofisiticadas para solucionar el problema, volvemos a caer en el mismo hoyo. Tal es el caso de las redes 4G que han permitido que IoT no tenga problemas con la conectividad por mucho tiempo, pero la gran cantidad de dispositivos ha obligado a esta tecnología a evolucionar y lidiar con el problema que presenta IoT.\par
-        La tecnología más usada por parte de IoT, es Cloud Computing, dicha tecnología es buena solución ya que nos provee alto poder de cómputo, pero ya que nos enfrentamos a un contexto en el cual se tiene que lidiar con grandes cantidades de datos provenientes de diferentes puntos de información, esta deja de ser una buena solución,  su arquitectura centralizada provoca grandes problemas, uno de ellos la latencia. Al enfrentarse a una masiva cantidad de datos, las 24 horas del dia, Cloud Computing no la pasa nada bien, su arquitectura centralizada hace que IoT no despliegue todo su potencial. \par
-        Partiendo de esta problemática nace Fog Computing, una solución que viene de una u otra manera  a lidiar con la latencia que se presenta en la entrega de los datos, planteando un arquitectura distribuida y más local al lugar donde se generan los datos; además de eso Fog Computing lanza la idea de aprovechar la capacidad de cómputo de los dispositivos finales, pero es ahí donde tenemos un nuevo problema, los dispositivos finales cuentan con recursos limitados; recursos que son accesibles en cuestiones económicas debido al auge y el crecimiento de IoT pero con limitaciones en su nivel de procesamiento y almacenamiento.\par
+    Según cifras establecidas por grandes empresas del medio como Cisco,  se puede predecir que en un futuro próximo tendremos cerca de 50 a 100 mil millones de objetos conectados electrónicamente a Internet, es un cifra bastante colosal que poco a poco genera problemas debido a las tecnologías que se usan actualmente para poder desplegar cualquier proyecto basado en Internet de las Cosas, más aún si se toma en cuenta que a diario se generan 2,5 quintillones de bytes.\par
+    Desde el año 2000 se viene hablando sobre Internet de las Cosas y cómo cimentar las bases exactas para lograr darle el mejor soporte en tecnologías de comunicación, pero de acuerdo a ciertos autores, cada solución que se plantean para un problema es momentánea, es decir, funciona bajo el paradigma de una enfermedad terminal, dónde cura la herida por un cierto tiempo pero si no se plantean nuevas formas mas sofisiticadas para solucionar el problema, volvemos a caer en el mismo hoyo. Tal es el caso de las redes 4G que han permitido que IoT no tenga problemas con la conectividad por mucho tiempo, pero la gran cantidad de dispositivos ha obligado a esta tecnología a evolucionar y lidiar con el problema que presenta IoT.\par
+    La tecnología más usada por parte de IoT, es Cloud Computing, dicha tecnología es buena solución ya que nos provee alto poder de cómputo, pero ya que nos enfrentamos a un contexto en el cual se tiene que lidiar con grandes cantidades de datos provenientes de diferentes puntos de información, esta deja de ser una buena solución,  su arquitectura centralizada provoca grandes problemas, uno de ellos la latencia. Al enfrentarse a una masiva cantidad de datos, las 24 horas del dia, Cloud Computing no la pasa nada bien, su arquitectura centralizada hace que IoT no despliegue todo su potencial, haciendo que tenga la necesidad  de buscar métodos de procesamiento de datos más escalables y eficientes. \par
+    Partiendo de esta problemática nace Fog Computing, una solución que viene de una u otra manera  a lidiar con la latencia que se presenta en la entrega de los datos, planteando un arquitectura distribuida y más local al lugar donde se generan los datos; además de eso Fog Computing lanza la idea de aprovechar la capacidad de cómputo de los dispositivos finales, pero es ahí donde tenemos un nuevo problema, estos dispositivos cuentan con recursos limitados; recursos que son accesibles en cuestiones económicas debido al auge y el crecimiento de IoT pero con limitaciones en su nivel de procesamiento y almacenamiento.\par
+    Sin embargo la informática paralela y distribuida ha surgido en las últimas décadas, y sus técnicas pueden adecuarse al IoT para resolver los problemas mencionados anteriormente.\par
     \subsection{Antecedentes}
         \vskip 0.3cm
         {\cite{alfuqaha2015}} expresan que IoT está habilitado por los últimos desarrollos en RFID, sensores inteligentes, tecnologías de comunicación y protocolos de Internet. Donde la premisa básica es que los sensores inteligentes colaboren directamente sin participación humana para ofrecer una nueva clase de aplicaciones. También enfatizan en que la revolución actual en las tecnologías de Internet, dispositivos móviles y máquina a máquina (M2M) se puede ver como la primera fase del IoT. En los próximos años,  esperan que IoT conecte diversas tecnologías para permitir nuevas aplicaciones conectando objetos físicos en apoyo de una toma de decisiones inteligente.Este trabajo nos muestra el panorama actual de IoT entorno a los ultimos avances tecnologicos de algunos campos y culmina enfatizando la necesidad de muchas aplicaciones con respecto a la evolucion de IoT.
@@ -30,7 +31,14 @@
         ¿De qué manera se podría reducir la elevada latencia generada por las constantes peticiones desde los dispositivos IoT al servidor?\par
     \subsection{Hipótesis}
         El uso de de algoritmos paralelos sobre la arquitectura Fog Computing reducirá la latencia en el Internet de la cosas.\par
+<<<<<<< HEAD
     \newpage
+=======
+
+
+\newpage
+
+>>>>>>> cc5e0afddd0fdecae4019915706d73befffe4633
     \subsection{Variables}
         \subsubsection{Variable Independiente}
             \begin{table}[h!]
@@ -103,8 +111,22 @@
                               
                 }\par                 
             \end{table}
+<<<<<<< HEAD
                     
         \newpage
+=======
+            Donde:
+            \vskip 0.3cm
+            \begin{enumerate}
+                \item[]{Ts = Tiempo en ejecución de un programa secuencial.}
+                \item[]{Tp = Tiempo de ejecución de la versión paralela de dicho programa.}
+                \item[]{S(n) = SpeedUp.}
+                \item[]{n = Cantidad de procesadores.}
+            \end{enumerate}\par
+
+\newpage
+
+>>>>>>> cc5e0afddd0fdecae4019915706d73befffe4633
         \subsubsection{Variable Dependiente}
             \begin{table}[h!]
                 \centering
@@ -179,7 +201,6 @@
                 \end{enumerate}\par                 
                 \vskip 0.3cm
 
-                \newpage
                 {\bf Cálculo de la muestra:}\par
                 \vskip 0.3cm
 
@@ -290,12 +311,18 @@
     
                     %%%%%%%%    FILA 1   %%%%%%%
                     % COLUMNA 1 %
+<<<<<<< HEAD
                     Laténcia en el Internet de las Cosas. &
                     {Investigación documental.\vskip 0.3cm\par Observación.} &
                     {Tesis, Artículos, Libros, etc.\vskip 0.3cm\par Guías de observación.} 
 
                     \\ \hline 
 
+=======
+                    Se medirá el tiempo de cada transmisión desde dispositivos IoT hasta un servidor. 
+                    \\ \hline
+    
+>>>>>>> cc5e0afddd0fdecae4019915706d73befffe4633
                     \end{tabular}
                     \begin{center}
                         \vskip -0.2cm
