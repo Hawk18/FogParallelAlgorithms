@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.9.4)  17 SEP 2018 16:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.9.4)  19 SEP 2018 01:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -523,12 +523,30 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count108
 \@thisrulewidth=\dimen135
 )
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip46
+\LTright=\skip47
+\LTpre=\skip48
+\LTpost=\skip49
+\LTchunksize=\count109
+\LTcapwidth=\dimen136
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count110
+\LT@rows=\count111
+\c@LT@tables=\count112
+\c@LT@chunks=\count113
+\LT@p@ftn=\toks24
+)
 (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip46
-\bibsep=\skip47
+\bibhang=\skip50
+\bibsep=\skip51
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count109
+\c@NAT@ctr=\count114
 )
 (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
@@ -543,17 +561,17 @@ Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen136
-\extrarowheight=\dimen137
-\NC@list=\toks24
-\extratabsurround=\skip48
-\backup@length=\skip49
+\col@sep=\dimen137
+\extrarowheight=\dimen138
+\NC@list=\toks25
+\extratabsurround=\skip52
+\backup@length=\skip53
 )
-\everycr=\toks25
-\minrowclearance=\skip50
+\everycr=\toks26
+\minrowclearance=\skip54
 )
 LaTeX Info: Redefining \color on input line 702.
-\rownum=\count110
+\rownum=\count115
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
 Package xcolor Info: Model `RGB' extended on input line 1353.
@@ -626,17 +644,17 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count111
-\scratchdimen=\dimen138
-\scratchbox=\box28
-\nofMPsegments=\count112
-\nofMParguments=\count113
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count114
-\MPscratchDim=\dimen139
-\MPnumerator=\count115
-\makeMPintoPDFobject=\count116
-\everyMPtoPDFconversion=\toks27
+\scratchcounter=\count116
+\scratchdimen=\dimen139
+\scratchbox=\box32
+\nofMPsegments=\count117
+\nofMParguments=\count118
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count119
+\MPscratchDim=\dimen140
+\MPnumerator=\count120
+\makeMPintoPDFobject=\count121
+\everyMPtoPDFconversion=\toks28
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -783,7 +801,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 701--701
  (./plan.tex [11
 
 
-] [12] [13]
+] [12] [13] [14]
 Underfull \hbox (badness 2165) in paragraph at lines 44--44
 []|\T1/ptm/b/n/12 Definición Con-
  []
@@ -838,60 +856,78 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--55
 \T1/ptm/m/n/12 los Al-go-rit-mos
  []
 
-[14]
-Underfull \hbox (badness 2165) in paragraph at lines 101--101
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+[]\T1/ptm/m/n/12 Aceleración
+ []
+
+[15]
+Underfull \hbox (badness 2165) in paragraph at lines 117--117
 []|\T1/ptm/b/n/12 Definición Con-
  []
 
 
-Underfull \hbox (badness 4819) in paragraph at lines 110--110
+Underfull \hbox (badness 4819) in paragraph at lines 126--126
 []|\T1/ptm/m/n/12 Retardo exis-ten-
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 110--110
+Underfull \hbox (badness 1275) in paragraph at lines 126--126
 \T1/ptm/m/n/12 te en la en-tre-ga
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 114--115
+Underfull \hbox (badness 1019) in paragraph at lines 130--131
 \T1/ptm/m/n/12 sión y la re-cep-
  []
 
-[15] [16]
+[16] [17]
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]|\T1/ptm/m/n/12 Investigación do-cu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
+[]|\T1/ptm/m/n/12 Tesis, Ar-tícu-los, Li-
+ []
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[17]) [18] (./main.bbl [19
+[18]) [19] (./main.bbl [20
 
 ])
 Underfull \hbox (badness 10000) in paragraph at lines 44--46
 
  []
 
-[20] (./main.aux (./cover.aux)
+[21] (./main.aux (./cover.aux)
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
  (./generalidades.aux) (./plan.aux)) ) 
 Here is how much of TeX's memory you used:
- 5632 strings out of 493029
- 72180 string characters out of 6136235
- 175184 words of memory out of 5000000
- 9020 multiletter control sequences out of 15000+600000
- 38444 words of font info for 54 fonts, out of 8000000 for 9000
+ 5726 strings out of 493029
+ 73257 string characters out of 6136235
+ 177008 words of memory out of 5000000
+ 9109 multiletter control sequences out of 15000+600000
+ 42865 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,12n,35p,2368b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/
 dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (20 pages, 184763 bytes).
+/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
+2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
+w/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a
+.pfb>
+Output written on main.pdf (21 pages, 215349 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
+ 114 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

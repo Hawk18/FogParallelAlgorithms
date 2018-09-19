@@ -30,7 +30,7 @@
         ¿De qué manera se podría reducir la elevada latencia generada por las constantes peticiones desde los dispositivos IoT al servidor?\par
     \subsection{Hipótesis}
         El uso de de algoritmos paralelos sobre la arquitectura Fog Computing reducirá la latencia en el Internet de la cosas.\par
-
+    \newpage
     \subsection{Variables}
         \subsubsection{Variable Independiente}
             \begin{table}[h!]
@@ -56,23 +56,10 @@
                 % COLUMNA 4 %
                 Tiempo de ejecución. \par
                 \vskip 0.3cm
-                Aceleración (speedup). 
-                \begin{equation*}\label{}
-                    SU = \frac{Ts}{Tp}                    
-                \end{equation*}  
-                \begin{center}
-                    { Figura 1: Fórmula para el cálculo del SpeedUp.}\par
-                    { Fuente: {\cite{rafael2009}}. }\par                   
-                \end{center}
-               
-                Eficiencia (efficiency). 
-                \begin{equation*}\label{}
-                    E(n) = \frac{S(n)}{n}                   
-                \end{equation*}                
-                \begin{center}
-                    { Figura 2: Fórmula para el cálculo de la Eficiencia.}\par
-                    { Fuente: {\cite{rafael2009}}. }                       
-                \end{center}
+                Aceleración (speedup)$^a$. 
+                \vskip 0.3cm
+                Eficiencia (efficiency)$^b$. 
+
                 \\ \hline
 
                 \end{tabular}
@@ -80,15 +67,44 @@
                     \vskip -0.2cm
                     {\small{Fuente: Elaboración propia.}}
                 \end{center}
+                \footnotesize{
+                    \begin{enumerate}
+                        \item[$^a$]{El cálculo de la aceleración (SpeedUp) esta expresado por la siguiente fórmula:\par
+                            \begin{equation*}\label{}
+                                SU = \frac{Ts}{Tp}                    
+                            \end{equation*}  
+                            \begin{center}
+                                { Figura 1: Fórmula para el cálculo del SpeedUp.}\par
+                                { Fuente: {\cite{rafael2009}}. }\par                   
+                            \end{center} 
+                            Donde:
+                            \vskip 0.3cm
+                            \begin{enumerate}
+                                \item[]{Ts = Tiempo en ejecución de un programa secuencial.}
+                                \item[]{Tp = Tiempo de ejecución de la versión paralela de dicho programa.}
+                            \end{enumerate}\par   
+                        }
+                        \item[$^b$]{El cálculo de la eficiencia (efficiency) esta expresado por la siguiente fórmula:\par
+                            \begin{equation*}\label{}
+                                E(n) = \frac{S(n)}{n}                   
+                            \end{equation*}                
+                            \begin{center}
+                                { Figura 2: Fórmula para el cálculo de la Eficiencia.}\par
+                                { Fuente: {\cite{rafael2009}}. }                       
+                            \end{center}            
+                            Donde:            
+                            \vskip 0.3cm
+                            \begin{enumerate}
+                                \item[]{S(n) = SpeedUp.}
+                                \item[]{n = Cantidad de procesadores.}
+                            \end{enumerate}\par
+                        }
+                    \end{enumerate}\par                 
+                              
+                }\par                 
             \end{table}
-            Donde:
-            \vskip 0.3cm
-            \begin{enumerate}
-                \item[]{Ts = Tiempo en ejecución de un programa secuencial.}
-                \item[]{Tp = Tiempo de ejecución de la versión paralela de dicho programa.}
-                \item[]{S(n) = SpeedUp.}
-                \item[]{n = Cantidad de procesadores.}
-            \end{enumerate}\par    
+                    
+        \newpage
         \subsubsection{Variable Dependiente}
             \begin{table}[h!]
                 \centering
@@ -129,7 +145,7 @@
                 \item[b)] Comparar el performance que existe entre Cloud Computing y Fog Computing como arquitectura para IoT. 
                 \item[c)] Diseñar algoritmos  paralelos con la menor complejidad posible.
                 \item[d)] Comprobar que los algoritmos paralelos permiten disminuir la latencia.
-                \item[e)] Análisar los resultados obtenidos de la investigación.
+                \item[e)] Analizar los resultados obtenidos de la investigación.
             \end{enumerate}
     \subsection{Método de trabajo}    
             \subsubsection{Tipo investigación}
@@ -252,24 +268,34 @@
                     \end{center}                   
                 \end{table}              
             \subsubsection{Técnicas e Instrumentos de recolección de datos}
-                En la actualidad, en la investigación científica hay gran variedad o instrumentos para la recolección de información en el trabajo de campo de una determinada investigación.\par
-                De acuerdo con el método y el tipo de investigación a realizar se utilizan unas u otras técnicas. Para esta investigación se utilizarán las siguientes técnicas:\par
+                Para la recolección de datos, se usaran las siguientes técnicas según \cite{sampieri1997}:\par
+                \vskip 0.3cm
+
+                \begin{enumerate}
+                    \item[]{\bf Investigación documental:} Mediante la recolección de información en diferentes documentos como tesis, artículos y libros, se lograra tener una referencia formal y valida para el diseño de los Algoritmos Paralelos, asi como la manera de adaptarla con la arquitectura Fog Computing.\par
+                    \item[]{\bf Observación:} Se observará como trabajan actualmente los dispositivos IoT y como se llevan a cabo sus transmiciones.
+                \end{enumerate}\par                
                 \begin{table}[h!]
                     \centering
                     { Tabla 17: Técnicas e Instrumentos de recolección de datos.}\par
                     \vskip 0.3cm
-                    \begin{tabular}{|p{9cm}|} \hline
+                    \begin{tabular}{|p{4cm}|p{4cm}|p{4cm}|} \hline
                         
                     %%%%%%%    CABECERA      %%%%%%%    
                     
-                    \textit{{\bf{Medición de tiempo}}}
+                    \textit{{\bf{Variable}}} &
+                    \textit{{\bf{Técnica}}} &
+                    \textit{{\bf{Instrumento}}}
                     \\ \hline
     
                     %%%%%%%%    FILA 1   %%%%%%%
                     % COLUMNA 1 %
-                    Se medirá el tiempo de cada transmision desde dispositivos IoT hasta un servidor. 
-                    \\ \hline
-    
+                    Laténcia en el Internet de las Cosas. &
+                    {Investigación documental.\vskip 0.3cm\par Observación.} &
+                    {Tesis, Artículos, Libros, etc.\vskip 0.3cm\par Guías de observación.} 
+
+                    \\ \hline 
+
                     \end{tabular}
                     \begin{center}
                         \vskip -0.2cm
@@ -277,19 +303,15 @@
                     \end{center}                   
                 \end{table}
             \subsubsection{Etapas}
+                Para llegar a los objetivos propuestos, el desarrollo de la investigación comprendió las siguientes etapas de trabajo: 
                 \begin{enumerate}
                     \item[a)] Análisis de los principales problemas con respecto a la transmisión de datos a los que se enfrenta actualmente IoT y a los que va ha enfrentarse en un futuro cercano.
-                    \item[b)] Levantamiento de trabajos relacionados al tema de transmision de datos en IoT.
-                    \item[c)] Formulación del problema principal de la investigación.
-                    \item[d)] Levantamiento biliográfico de los diferentes temas necesarios para la elaboración de la investigación, tales como IoT, Cloud Comptuing, Fog Computing, computación paralela, entre otros.
-                    \item[e)] Estudio y análisis del panorama actual y remoto de IoT, con la finalidad de aportar al estado del arte del problema formulado.
-                    \item[f)] Estudio y análisis de los diferentes métodos de solución evaluados en la revisión bibliográfica, así como los que serán propuestos en este estudio.
-                    \item[g)] Investigación y estudio del software que nos permitirá observar a detalle las propuestas actuales que dan soporte a IoT, así como la propuesta desarrollada durante la investigación.
-                    \item[h)] Testes y validación de las propuestas estudiadas con el software seleccionado. 
-                    \item[i)] Desarrollo de la propuesta que busca reducir la latencia en la transmisión de datos en IoT, por medio de la implentacion de algoritmos paralelos sobre la arquitectura Fog Computing.
-                    \item[j)] Elección de una aréa industrial para que sea utilizada como estudio de caso, tanto para los testes de las propuestas estudiadas como las desarrolladas.
-                    \item[k)] Levantamiento de los datos necesarios para validar y testear la propuesta desarrollada.
-                    \item[l)] Levantamiento de simulación de datos para ejecutar la propuesta.
-                    \item[m)] Testes y validación de la propuesta desarrollada en la área industrial escogida.
-                    \item[j)] Análisis de resultados con la herramienta ``Excel''. 
+                    \item[b)] Formulación del problema principal de la investigación, justificando su importancia.
+                    \item[c)] Levantamiento biliográfico de los diferentes temas necesarios para la elaboración de la investigación, tales como IoT, Cloud Comptuing, Fog Computing, Algoritmos Paralelos, entre otros.
+                    \item[d)] Estudio y análisis del panorama actual y remoto de IoT, con la finalidad de aportar al estado del arte del problema formulado.
+                    \item[e)] Estudio y análisis de los diferentes métodos de solución evaluados en la revisión bibliográfica, así como los que serán propuestos en este estudio.
+                    \item[f)] Diseño de los algoritmos paralelos.
+                    \item[h)] Implementación y debugging de los algoritmos paralelos previamente diseñados sobre la arquitectura Fog Computing.
+                    \item[i)] Selección de muestras y realización de pruebas.
+                    \item[j)] Análisis de resultados obtenidos con la herramienta ``Excel''. 
                 \end{enumerate}                
