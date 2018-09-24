@@ -2,11 +2,11 @@
 
 \section{PLAN DE INVESTIGACIÓN}
     \subsection{Realidad problemática}
-    Según cifras establecidas por grandes empresas del medio como Cisco,  se puede predecir que en un futuro próximo tendremos cerca de 50 a 100 mil millones de objetos conectados electrónicamente a Internet, es un cifra bastante colosal que poco a poco genera problemas debido a las tecnologías que se usan actualmente para poder desplegar cualquier proyecto basado en Internet de las Cosas, más aún si se toma en cuenta que a diario se generan 2,5 quintillones de bytes.\par
-    Desde el año 2000 se viene hablando sobre Internet de las Cosas y cómo cimentar las bases exactas para lograr darle el mejor soporte en tecnologías de comunicación, pero de acuerdo a ciertos autores, cada solución que se plantean para un problema es momentánea, es decir, funciona bajo el paradigma de una enfermedad terminal, dónde cura la herida por un cierto tiempo pero si no se plantean nuevas formas mas sofisiticadas para solucionar el problema, volvemos a caer en el mismo hoyo. Tal es el caso de las redes 4G que han permitido que IoT no tenga problemas con la conectividad por mucho tiempo, pero la gran cantidad de dispositivos ha obligado a esta tecnología a evolucionar y lidiar con el problema que presenta IoT.\par
+    Según cifras establecidas por grandes empresas del medio como Cisco,  se puede predecir que en un futuro próximo tendremos cerca de 50 a 100 mil millones de objetos conectados electrónicamente a Internet, es un cifra bastante colosal que poco a poco genera problemas debido a las tecnologías que se usan actualmente para poder desplegar cualquier proyecto basado en Internet de las Cosas, más aún si se toma en cuenta que a diario se generan 2,5 quintillones de bytes \citep{murazzo2017}.\par
+    Desde el año 2000 se viene hablando sobre Internet de las Cosas y cómo cimentar las bases exactas para lograr darle el mejor soporte en tecnologías de comunicación, pero de acuerdo a ciertos autores, cada solución que se plantean para un problema es momentánea, es decir, funciona bajo el paradigma de una enfermedad terminal, dónde cura la herida por un cierto tiempo pero si no se plantean nuevas formas mas sofisiticadas para solucionar el problema, volvemos a caer en el mismo hoyo. Tal es el caso de las redes 4G que han permitido que IoT no tenga problemas con la conectividad por mucho tiempo, pero la gran cantidad de dispositivos ha obligado a esta tecnología a evolucionar y lidiar con el problema que presenta IoT \citep{li2018}.\par
     La tecnología más usada por parte de IoT, es Cloud Computing, dicha tecnología es buena solución ya que nos provee alto poder de cómputo, pero ya que nos enfrentamos a un contexto en el cual se tiene que lidiar con grandes cantidades de datos provenientes de diferentes puntos de información, esta deja de ser una buena solución,  su arquitectura centralizada provoca grandes problemas, uno de ellos la latencia. Al enfrentarse a una masiva cantidad de datos, las 24 horas del dia, Cloud Computing no la pasa nada bien, su arquitectura centralizada hace que IoT no despliegue todo su potencial, haciendo que tenga la necesidad  de buscar métodos de procesamiento de datos más escalables y eficientes. \par
-    Partiendo de esta problemática nace Fog Computing, una solución que viene de una u otra manera  a lidiar con la latencia que se presenta en la entrega de los datos, planteando un arquitectura distribuida y más local al lugar donde se generan los datos; además de eso Fog Computing lanza la idea de aprovechar la capacidad de cómputo de los dispositivos finales, pero es ahí donde tenemos un nuevo problema, estos dispositivos cuentan con recursos limitados; recursos que son accesibles en cuestiones económicas debido al auge y el crecimiento de IoT pero con limitaciones en su nivel de procesamiento y almacenamiento.\par
-    Sin embargo la informática paralela y distribuida ha surgido en las últimas décadas, y sus técnicas pueden adecuarse al IoT para resolver los problemas mencionados anteriormente.\par
+    Partiendo de esta problemática nace Fog Computing \citep{yi2015} , una solución que viene de una u otra manera  a lidiar con la latencia que se presenta en la entrega de los datos, planteando un arquitectura distribuida y más local al lugar donde se generan los datos; además de eso Fog Computing lanza la idea de aprovechar la capacidad de cómputo de los dispositivos finales, pero es ahí donde tenemos un nuevo problema, estos dispositivos cuentan con recursos limitados; recursos que son accesibles en cuestiones económicas debido al auge y el crecimiento de IoT pero con limitaciones en su nivel de procesamiento y almacenamiento.\par
+    Sin embargo la informática paralela ha surgido en las últimas décadas, y sus técnicas pueden adecuarse al IoT para resolver los problemas mencionados anteriormente \citep{piccialli2018}.\par
     \subsection{Antecedentes}
         \vskip 0.3cm
         {\cite{alfuqaha2015}} expresan que IoT está habilitado por los últimos desarrollos en RFID, sensores inteligentes, tecnologías de comunicación y protocolos de Internet. Donde la premisa básica es que los sensores inteligentes colaboren directamente sin participación humana para ofrecer una nueva clase de aplicaciones. También enfatizan en que la revolución actual en las tecnologías de Internet, dispositivos móviles y máquina a máquina (M2M) se puede ver como la primera fase del IoT. En los próximos años,  esperan que IoT conecte diversas tecnologías para permitir nuevas aplicaciones conectando objetos físicos en apoyo de una toma de decisiones inteligente.Este trabajo nos muestra el panorama actual de IoT entorno a los ultimos avances tecnologicos de algunos campos y culmina enfatizando la necesidad de muchas aplicaciones con respecto a la evolucion de IoT.
@@ -26,11 +26,12 @@
         {\cite{shanmugapriya2018}} muestra un panorama donde una variante de un algoritmo de agrupamiento más reciente basado en el hallazgo rápido y la búsqueda de picos de densidad (CFS), tiene la capacidad de afrontar la agrupación de grandes cantidades de datos dinámicos en el Internet de las cosas industriales, donde muestra que dicha variación puede encontrar grupos de forma arbitraria y determinar la cantidad de clústeres automáticamente, solucionado de cierta manera las limitaciones que presentaba el algoritmo inicial frente al agrupamiento de grandes volúmenes de datos. Como aporte, esta investigación nos permite ver el potencial oculto que tiene este algoritmo CFS propuesto por Alessandro Laio, Alex Rodriguez y Maria d’Errico frente al agrupamiento de datos, que si bien es cierto tiene una limitación bien marcada frente al volumen de estos, podemos mejorarlo de acuerdo a nuestras necesidades o al problema que queremos resolver y obtener mejores resultados.\par
 
     \subsection{Justificación}
-        La necesidad de hacer frente a la problemática que vive actualmente la tecnología IoT y la que vivirá en los próximos años, induce a pensar rápido en la manera de cómo mitigarla y lograr solucionar los posible cuellos de botella que sufre y sufrirá esta tecnología. Por ende, la propuesta planteada en este trabajo requiere de un involucramiento a fondo en el paradigma donde cada objeto puede estar conectado a internet o de forma resumida, el Internet de las Cosas, también no llama a sumergirse en las diferentes arquitecturas enfocadas a dar soporte a esta tecnología y a lograr sacar a relucir todo el potencial de la computación paralela por medio de la creación de algoritmos de este tipo, que para procesar grandes cantidades de datos son mucho más eficaces que los comúnmente usados (algoritmos secuenciales), de tal manera que la complementación de estos permite plantear una nueva forma o enfoque de cómo solucionar la latencia que presenta IoT frente a un contexto donde se generan una gran cantidad de información de manera distribuida y la enorme necesidad de analizar toda esta data. De igual modo frente al gran crecimiento de la cantidad de dispositivos conectados a internet, el tema de la entrega de datos puede sufrir grandes complicaciones debido a factores como: la centralización que presenta la arquitectura sobre la cual funciona la mayoría de proyectos IoT y la gigantesca información proveniente de dispositivos finales que se necesitan procesar; dado a conocer este complicado panorama es que se necesita tener una solución frente al tema de la latencia existente en la transmisión de datos, por lo cual se propone desarrollar un mecanismo concebido gracias a la complementación entre la arquitectura Fog Computing y algoritmos paralelos, permitiendo lograr reducir los tiempos de transmisión de datos entre los dispositivos donde se originan de los datos y los servidores alojados en la nube o centros de datos. De esta manera, se busca lograr que cada idea o proyecto sobre IoT, principalmente aquellos que manejan grandes cantidades de información de diferentes puntos de origen, no tengan complicaciones con respecto al tiempo de la transmisión de datos y el tema de análisis de la información se desarrolle la mejor manera posible.
+        La necesidad de hacer frente a la problemática que vive actualmente la tecnología IoT y la que vivirá en los próximos años, induce a pensar rápido en la manera de cómo mitigarla y lograr solucionar los posible cuellos de botella que sufre y sufrirá esta tecnología. Por ende, la propuesta planteada en este trabajo requiere de un involucramiento a fondo en el paradigma donde cada objeto puede estar conectado a internet o de forma resumida, el Internet de las Cosas, también no llama a sumergirse en las diferentes arquitecturas enfocadas a dar soporte a esta tecnología y a lograr sacar a relucir todo el potencial de la computación paralela por medio de la creación de algoritmos de este tipo, que para procesar grandes cantidades de datos son mucho más eficaces que los comúnmente usados (algoritmos secuenciales), de tal manera que la complementación de estos permite plantear una nueva forma o enfoque de cómo solucionar la latencia que presenta IoT frente a un contexto donde se generan una gran cantidad de información de manera distribuida y la enorme necesidad de analizar toda esta data. \par
+        De igual modo frente al gran crecimiento de la cantidad de dispositivos conectados a internet, el tema de la entrega de datos puede sufrir grandes complicaciones debido a factores como: la centralización que presenta la arquitectura sobre la cual funciona la mayoría de proyectos IoT y la gigantesca información proveniente de dispositivos finales que se necesitan procesar; dado a conocer este complicado panorama es que se necesita tener una solución frente al tema de la latencia existente en la transmisión de datos, por lo cual se propone desarrollar un mecanismo concebido gracias a la complementación entre la arquitectura Fog Computing y algoritmos paralelos, permitiendo lograr reducir los tiempos de transmisión de datos entre los dispositivos donde se originan de los datos y los servidores alojados en la nube o centros de datos. De esta manera, se busca lograr que cada idea o proyecto sobre IoT, principalmente aquellos que manejan grandes cantidades de información de diferentes puntos de origen, no tengan complicaciones con respecto al tiempo de la transmisión de datos y el tema de análisis de la información se desarrolle la mejor manera posible.
     \subsection{Problema}
         ¿De qué manera se podría reducir la elevada latencia generada por las constantes peticiones desde los dispositivos IoT al servidor?\par
     \subsection{Hipótesis}
-        El uso de de algoritmos paralelos sobre la arquitectura Fog Computing reducirá la latencia en el Internet de la cosas.\par
+        El uso de de algoritmos paralelos sobre la arquitectura Fog Computing reducirá la latencia en IoT.\par
     \newpage
     \subsection{Variables}
         \subsubsection{Variable Independiente}
@@ -122,7 +123,7 @@
 
                 %%%%%%%%    FILA 1   %%%%%%%
                 % COLUMNA 1 %
-                Latencia en el Internet de las Cosas &
+                Latencia en IoT &
                 % COLUMNA 2 %
                 Retardo existente en la entrega de datos dentro la red &
                 % COLUMNA 3 %
@@ -139,14 +140,14 @@
             \end{table}
     \subsection{Objetivos}
         \subsubsection{Objetivo general}
-            Disminuir el tiempo de latencia en los dispositivos de internet de las cosas, utilizando algoritmos paralelos sobre la arquitectura Fog Computing.
+            Diseñar algoritmos paralelos sobre la arquitectura Fog Computing para reducir la latencia en IoT.
         \subsubsection{Objetivos específicos}
             \begin{enumerate}
                 \item[a)] Determinar el nivel de latencia que presenta actualmente la arquitecturas IoT bajo Cloud Computing.
                 \item[b)] Comparar el performance que existe entre Cloud Computing y Fog Computing como arquitectura para IoT. 
-                \item[c)] Diseñar algoritmos  paralelos con la menor complejidad posible.
-                \item[d)] Comprobar que los algoritmos paralelos permiten disminuir la latencia.
-                \item[e)] Analizar los resultados obtenidos de la investigación.
+                \item[c)] Comprobar que los algoritmos paralelos permiten disminuir la latencia.
+                \item[d)] Analizar los resultados obtenidos de la investigación.
+                \item[e)] Validar los resultados.
             \end{enumerate}
     \subsection{Método de trabajo}    
             \subsubsection{Tipo investigación}
@@ -172,7 +173,7 @@
             \subsubsection{Población y muestra}    
                 \vskip 0.3cm
                 \begin{enumerate}
-                    \item[]{{\bf Universo:} Transmisiones de datos en Internet de las Cosas.}
+                    \item[]{{\bf Universo:} Transmisiones de datos en IoT.}
                     \item[]{{\bf Población:} Transmisiones de datos desde dispositivos IoT hasta un servidor.}
                     \item[]{{\bf Muestra:} Transmisiones de datos desde dispositivos IoT hasta un servidor.}
                     \item[]{{\bf Tipo de muestra:} Muestra Aleatoria.}
@@ -290,7 +291,7 @@
     
                     %%%%%%%%    FILA 1   %%%%%%%
                     % COLUMNA 1 %
-                    Laténcia en el Internet de las Cosas. &
+                    Laténcia en el IoT. &
                     {Investigación documental.\vskip 0.3cm\par Observación.} &
                     {Tesis, Artículos, Libros, etc.\vskip 0.3cm\par Guías de observación.} 
 
@@ -313,5 +314,5 @@
                     \item[f)] Diseño de los algoritmos paralelos.
                     \item[g)] Implementación y debugging de los algoritmos paralelos previamente diseñados sobre la arquitectura Fog Computing.
                     \item[h)] Selección de muestras y realización de pruebas.
-                    \item[i)] Análisis de resultados obtenidos con la herramienta ``Excel''. 
+                    \item[i)] Análisis de los resultados obtenidos. 
                 \end{enumerate}                

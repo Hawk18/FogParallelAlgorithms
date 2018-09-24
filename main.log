@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.9.4)  19 SEP 2018 01:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.4)  24 SEP 2018 14:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/california/Tesis/test/main.tex
-(/home/california/Tesis/test/main.tex
+**/home/martin/FogParallelAlgorithms/main.tex
+(/home/martin/FogParallelAlgorithms/main.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -802,92 +802,92 @@ Underfull \hbox (badness 10000) in paragraph at lines 701--701
 
 
 ] [12] [13] [14]
-Underfull \hbox (badness 2165) in paragraph at lines 45--45
+Underfull \hbox (badness 2165) in paragraph at lines 46--46
 []|\T1/ptm/b/n/12 Definición Con-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--52
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
 []|\T1/ptm/m/n/12 Algoritmos pa-
  []
 
 
-Underfull \hbox (badness 4391) in paragraph at lines 52--52
+Underfull \hbox (badness 4391) in paragraph at lines 53--53
 \T1/ptm/m/n/12 ra-le-los so-bre la
  []
 
 
-Underfull \hbox (badness 4819) in paragraph at lines 52--52
+Underfull \hbox (badness 4819) in paragraph at lines 53--53
 \T1/ptm/m/n/12 ar-qui-tec-tu-ra Fog
  []
 
 
-Underfull \hbox (badness 1199) in paragraph at lines 54--54
+Underfull \hbox (badness 1199) in paragraph at lines 55--55
 \T1/ptm/m/n/12 ca-dos al uso de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 \T1/ptm/m/n/12 va-rios pro-ce-sa-
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 54--54
+Underfull \hbox (badness 3189) in paragraph at lines 55--55
 \T1/ptm/m/n/12 do-res tra-ba-jan-do
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 \T1/ptm/m/n/12 jun-tos pa-ra re-
  []
 
 
-Underfull \hbox (badness 1874) in paragraph at lines 54--54
+Underfull \hbox (badness 1874) in paragraph at lines 55--55
 \T1/ptm/m/n/12 sol-ver una ta-rea
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 []|\T1/ptm/m/n/12 Rendimiento de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 \T1/ptm/m/n/12 los Al-go-rit-mos
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
 []\T1/ptm/m/n/12 Aceleración
  []
 
 [15]
-Underfull \hbox (badness 2165) in paragraph at lines 118--118
+Underfull \hbox (badness 2165) in paragraph at lines 119--119
 []|\T1/ptm/b/n/12 Definición Con-
  []
 
 
-Underfull \hbox (badness 4819) in paragraph at lines 127--127
+Underfull \hbox (badness 4819) in paragraph at lines 128--128
 []|\T1/ptm/m/n/12 Retardo exis-ten-
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 127--127
+Underfull \hbox (badness 1275) in paragraph at lines 128--128
 \T1/ptm/m/n/12 te en la en-tre-ga
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 131--132
+Underfull \hbox (badness 1019) in paragraph at lines 132--133
 \T1/ptm/m/n/12 sión y la re-cep-
  []
 
 [16] [17]
-Underfull \hbox (badness 10000) in paragraph at lines 294--294
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
 []|\T1/ptm/m/n/12 Investigación do-cu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 295--295
+Underfull \hbox (badness 10000) in paragraph at lines 296--296
 []|\T1/ptm/m/n/12 Tesis, Ar-tícu-los, Li-
  []
 
@@ -904,12 +904,12 @@ LaTeX Info: Redefining \% on input line 8.
  (./generalidades.aux) (./plan.aux)) ) 
 Here is how much of TeX's memory you used:
  5726 strings out of 493029
- 73257 string characters out of 6136235
- 177008 words of memory out of 5000000
+ 73278 string characters out of 6136235
+ 177006 words of memory out of 5000000
  9109 multiletter control sequences out of 15000+600000
  42865 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,12n,35p,2368b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,12n,35p,1258b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/
 dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
@@ -921,7 +921,7 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
 w/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a
 .pfb>
-Output written on main.pdf (21 pages, 215664 bytes).
+Output written on main.pdf (21 pages, 215579 bytes).
 PDF statistics:
  114 PDF objects out of 1000 (max. 8388607)
  79 compressed objects within 1 object stream
